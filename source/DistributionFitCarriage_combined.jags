@@ -1,0 +1,69 @@
+model {
+  
+  for(i in CDic){
+    #set up the censoring interval for the time of seroconversion
+    #if CDisCensored is 1 then Y_V is between the limits
+    CDisCensored[i] ~ dinterval( Y_V[i] , CDcensorLimitVec[i,1:2])
+    CDcensorLimitVec[i,1]<-max(0.000000001,CL[i])
+    CDcensorLimitVec[i,2]<-max(0.000000001,CR[i])
+    
+    Y_V[i] ~ dweib(v_v,  lambda_v)
+    
+    #calculate the likelihoods:
+    loglik[i] <- log(exp(-lambda_v * (Y_V[i] ^ v_v)))
+    
+  }
+  
+  for(i in CDrc){
+    #censoring is 2, so this is a right censored observation
+    #hence beyond the second entry in the censor limit cector
+    CDisCensored[i] ~ dinterval( Y_V[i] , CDcensorLimitVecS[i,1:2])
+    CDcensorLimitVecS[i,1]<-0
+    CDcensorLimitVecS[i,2]<-max(0.000000001,CL[i])
+    
+    Y_V[i] ~ dweib(v_v,  lambda_v)
+    
+    #calculate the likelihoods:
+    loglik[i] <- log(exp(-lambda_v * (Y_V[i] ^ v_v)))
+  }
+  
+  # Second set of data
+
+  for(i in CDic2){
+    #set up the censoring interval for the time of seroconversion
+    #if CDisCensored is 1 then Y_V is between the limits
+    CDisCensored[i] ~ dinterval( Y_V[i] , CDcensorLimitVec[i,1:2])
+    CDcensorLimitVec[i,1]<-max(0.000000001,CL[i])
+    CDcensorLimitVec[i,2]<-max(0.000000001,CR[i])
+    
+    Y_V[i] ~ dweib(v_v2,  lambda_v2)
+    
+    #calculate the likelihoods:
+    loglik[i] <- log(exp(-lambda_v2 * (Y_V[i] ^ v_v2)))
+    
+  }
+  
+  for(i in CDrc2){
+    #censoring is 2, so this is a right censored observation
+    #hence beyond the second entry in the censor limit cector
+    CDisCensored[i] ~ dinterval( Y_V[i] , CDcensorLimitVecS[i,1:2])
+    CDcensorLimitVecS[i,1]<-0
+    CDcensorLimitVecS[i,2]<-max(0.000000001,CL[i])
+    
+    Y_V[i] ~ dweib(v_v2,  lambda_v2)
+    
+    #calculate the likelihoods:
+    loglik[i] <- log(exp(-lambda_v2 * (Y_V[i] ^ v_v2)))
+  }
+  
+  
+  #priors and transformation for viral clearance distribution
+  v_v~dgamma(1,1)
+  lambda_v<-(1/scale_v)^(v_v)
+  scale_v~dunif(0,100)
+  
+  v_v2~dgamma(1,1)
+  lambda_v2<-(1/scale_v2)^(v_v2)
+  scale_v2~dunif(0,100)
+  
+}

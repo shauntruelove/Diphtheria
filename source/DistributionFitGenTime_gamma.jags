@@ -1,0 +1,18 @@
+model {
+    
+    for(i in GTdic){
+        #set up the censoring interval for the time of seroconversion
+        #if VSPisCensored is 1 then Y_GT is between the limits
+        VSPisCensored[i] ~ dinterval( Y_GT[i] , VSPcensorLimitVec[i,1:2])
+        VSPcensorLimitVec[i,1] <- max(0.000000001,GTL[i])
+        VSPcensorLimitVec[i,2] <- max(0.000000001,GTR[i])
+        
+        Y_GT[i] ~ dgamma(shape_gt, rate_gt)
+    }
+    
+    #priors and transformation for generation time distribution
+    shape_gt ~ dunif(0,100)
+    scale_gt ~ dunif(0,100)
+    rate_gt <- 1/scale_gt
+
+}
