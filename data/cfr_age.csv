@@ -1,0 +1,315 @@
+"Ref","Location","Country","Region","Decade","Year.Mid","Age.min","Age.max","Mean.Age","Cases","Deaths","CFR","Age.years"
+"31","AjEMR, India","India","SEAR",1960,1965,0,4,2.5,198,29,0.146464646464646,5
+"31","AjEMR, India","India","SEAR",1960,1965,5,9,7.5,103,15,0.145631067961165,5
+"31","AjEMR, India","India","SEAR",1960,1965,10,80,45.5,40,2,0.05,71
+"48","Alabama","United States","AMR",1960,1967,1,1,1.5,1,1,1,1
+"48","Alabama","United States","AMR",1960,1967,2,2,2.5,1,0,0,1
+"48","Alabama","United States","AMR",1960,1967,3,3,3.5,2,0,0,1
+"48","Alabama","United States","AMR",1960,1967,4,4,4.5,2,0,0,1
+"48","Alabama","United States","AMR",1960,1967,5,5,5.5,1,0,0,1
+"48","Alabama","United States","AMR",1960,1967,6,6,6.5,2,1,0.5,1
+"48","Alabama","United States","AMR",1960,1967,7,7,7.5,3,2,0.666666666666667,1
+"48","Alabama","United States","AMR",1960,1967,8,8,8.5,2,0,0,1
+"48","Alabama","United States","AMR",1960,1967,10,10,10.5,2,0,0,1
+"48","Alabama","United States","AMR",1960,1967,12,12,12.5,1,0,0,1
+"48","Alabama","United States","AMR",1960,1967,19,19,19.5,1,0,0,1
+"48","Alabama","United States","AMR",1960,1967,40,50,45.5,1,1,1,11
+"121","Allahabad, India","India","SEAR",1960,1969,0,0,0.5,36,17,0.472222222222222,1
+"121","Allahabad, India","India","SEAR",1960,1969,1,2,2,39,12,0.307692307692308,2
+"121","Allahabad, India","India","SEAR",1960,1969,3,5,4.5,32,5,0.15625,3
+"121","Allahabad, India","India","SEAR",1960,1969,6,10,8.5,12,3,0.25,5
+"121","Allahabad, India","India","SEAR",1960,1969,11,15,13.5,1,0,0,5
+"345","Armenia","Armenia","NIS",1990,1993,1,4,3,10,0,0,4
+"345","Armenia","Armenia","NIS",1990,1993,5,14,10,33,6,0.181818181818182,10
+"345","Armenia","Armenia","NIS",1990,1993,15,19,17.5,6,0,0,5
+"345","Armenia","Armenia","NIS",1990,1993,20,29,25,5,1,0.2,10
+"345","Armenia","Armenia","NIS",1990,1993,30,39,35,15,0,0,10
+"345","Armenia","Armenia","NIS",1990,1993,40,49,45,9,3,0.333333333333333,10
+"345","Armenia","Armenia","NIS",1990,1993,50,59,55,3,1,0.333333333333333,10
+"345","Armenia","Armenia","NIS",1990,1993,60,60,60.5,3,1,0.333333333333333,1
+"14","Assam, India","India","SEAR",2000,2009,11,11,11.5,1,0,0,1
+"14","Assam, India","India","SEAR",2000,2009,13,13,13.5,2,1,0.5,1
+"14","Assam, India","India","SEAR",2000,2009,15,15,15.5,1,0,0,1
+"14","Assam, India","India","SEAR",2000,2009,17,17,17.5,1,1,1,1
+"14","Assam, India","India","SEAR",2000,2009,18,18,18.5,1,0,0,1
+"14","Assam, India","India","SEAR",2000,2009,20,20,20.5,2,0,0,1
+"14","Assam, India","India","SEAR",2000,2009,30,30,30.5,1,0,0,1
+"14","Assam, India","India","SEAR",2000,2009,65,65,65.5,1,0,0,1
+"347","Athens, Greece","Greece","EUR",1940,1946,0,0,0.5,12,7,0.583333333333333,1
+"347","Athens, Greece","Greece","EUR",1940,1946,2,2,2.5,30,8,0.266666666666667,1
+"347","Athens, Greece","Greece","EUR",1940,1946,3,3,3.5,14,2,0.142857142857143,1
+"347","Athens, Greece","Greece","EUR",1940,1946,4,4,4.5,4,0,0,1
+"347","Athens, Greece","Greece","EUR",1940,1946,5,5,5.5,1,0,0,1
+"347","Athens, Greece","Greece","EUR",1940,1946,6,6,6.5,1,1,1,1
+"347","Athens, Greece","Greece","EUR",1940,1946,7,7,7.5,3,0,0,1
+"347","Athens, Greece","Greece","EUR",1940,1946,9,9,9.5,1,0,0,1
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,0,0,0.5,7,2,0.285714285714286,1
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,1,4,3,166,36,0.216867469879518,4
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,5,14,10,967,175,0.180972078593588,10
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,15,19,17.5,313,30,0.0958466453674121,5
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,20,29,25,377,28,0.0742705570291777,10
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,30,39,35,263,11,0.0418250950570342,10
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,40,49,45,61,4,0.0655737704918033,10
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,50,59,55,15,0,0,10
+"339","Azerbaijan","Azerbaijan","NIS",1990,1993,60,60,60.5,1,0,0,1
+"338","Belarus","Belarus","NIS",1990,1994,0,4,2.5,42,4,0.0952380952380952,5
+"338","Belarus","Belarus","NIS",1990,1994,5,14,10,210,4,0.019047619047619,10
+"338","Belarus","Belarus","NIS",1990,1994,15,19,17.5,118,0,0,5
+"338","Belarus","Belarus","NIS",1990,1994,20,29,25,161,1,0.0062111801242236,10
+"338","Belarus","Belarus","NIS",1990,1994,30,39,35,202,5,0.0247524752475248,10
+"338","Belarus","Belarus","NIS",1990,1994,40,49,45,179,11,0.0614525139664804,10
+"338","Belarus","Belarus","NIS",1990,1994,50,59,55,45,1,0.0222222222222222,10
+"338","Belarus","Belarus","NIS",1990,1994,60,80,70.5,8,0,0,21
+"15","Buri Ram, Thailand","Thailand","SEAR",1990,1996,0,4,2.5,26,0,0,5
+"15","Buri Ram, Thailand","Thailand","SEAR",1990,1996,5,9,7.5,52,0,0,5
+"15","Buri Ram, Thailand","Thailand","SEAR",1990,1996,10,14,12.5,19,0,0,5
+"15","Buri Ram, Thailand","Thailand","SEAR",1990,1996,15,80,48,3,0,0,66
+"185","Charleston, SC","USA","AMR",1960,1963,0,4,2.5,19,3,0.157894736842105,5
+"185","Charleston, SC","USA","AMR",1960,1963,5,9,7.5,10,0,0,5
+"185","Charleston, SC","USA","AMR",1960,1963,10,80,45.5,7,1,0.142857142857143,71
+"675","Colchester","UK","EUR",1900,1901,0,14,7.5,135,16,0.118518518518519,15
+"675","Colchester","UK","EUR",1900,1901,15,80,48,68,2,0.0294117647058824,66
+"675","Colchester","UK","EUR",1900,1901,0,14,7.5,73,20,0.273972602739726,15
+"675","Colchester","UK","EUR",1900,1901,15,80,48,9,1,0.111111111111111,66
+"720","Coppenhagen","Denmark","EUR",1940,1943,0,0,0.5,9,1,0.111111111111111,1
+"720","Coppenhagen","Denmark","EUR",1940,1943,1,4,3,53,6,0.113207547169811,4
+"720","Coppenhagen","Denmark","EUR",1940,1943,5,14,10,62,7,0.112903225806452,10
+"720","Coppenhagen","Denmark","EUR",1940,1943,15,29,22.5,116,7,0.0603448275862069,15
+"720","Coppenhagen","Denmark","EUR",1940,1943,30,80,55.5,113,12,0.106194690265487,51
+"75","Coseley, England","England","EUR",1950,1951,0,4,2.5,21,0,0,5
+"75","Coseley, England","England","EUR",1950,1951,5,14,10,71,5,0.0704225352112676,10
+"75","Coseley, England","England","EUR",1950,1951,15,80,48,16,1,0.0625,66
+"260","Delhi, India","India","SEAR",1990,1997,0,0,0.5,20,10,0.5,1
+"260","Delhi, India","India","SEAR",1990,1997,1,4,3,73,22,0.301369863013699,4
+"260","Delhi, India","India","SEAR",1990,1997,5,9,7.5,38,13,0.342105263157895,5
+"260","Delhi, India","India","SEAR",1990,1997,10,18,14.5,12,0,0,9
+"249","Gambia","Gambia","AFR",1970,1971,0,0,0.5,1,0,0,1
+"249","Gambia","Gambia","AFR",1970,1971,1,1,1.5,1,0,0,1
+"249","Gambia","Gambia","AFR",1970,1971,2,2,2.5,6,0,0,1
+"249","Gambia","Gambia","AFR",1970,1971,3,3,3.5,1,1,1,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,9,9,9.5,1,0,0,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,26,26,26.5,1,0,0,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,26,26,26.5,1,1,1,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,28,28,28.5,2,1,0.5,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,29,29,29.5,1,0,0,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,34,34,34.5,2,0,0,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,37,37,37.5,1,0,0,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,42,42,42.5,1,0,0,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,49,49,49.5,1,0,0,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,62,62,62.5,1,1,1,1
+"62","Goteborg, Sweden","Sweeden","EUR",1980,1984,80,80,80.5,1,0,0,1
+"332","Ho Chi Min City, Vietnam","Vietnam","SEAR",2000,2003,1,3,2.5,36,0,0,3
+"332","Ho Chi Min City, Vietnam","Vietnam","SEAR",2000,2003,4,6,5.5,25,0,0,3
+"332","Ho Chi Min City, Vietnam","Vietnam","SEAR",2000,2003,7,9,8.5,17,0,0,3
+"332","Ho Chi Min City, Vietnam","Vietnam","SEAR",2000,2003,10,14,12.5,9,0,0,5
+"332","Ho Chi Min City, Vietnam","Vietnam","SEAR",2000,2003,15,80,48,1,0,0,66
+"690","Isleworth, England","England","EUR",1900,1907,3,3,3.5,5,0,0,1
+"690","Isleworth, England","England","EUR",1900,1907,4,4,4.5,8,0,0,1
+"690","Isleworth, England","England","EUR",1900,1907,5,5,5.5,8,0,0,1
+"690","Isleworth, England","England","EUR",1900,1907,6,6,6.5,9,0,0,1
+"690","Isleworth, England","England","EUR",1900,1907,7,9,8.5,13,2,0.153846153846154,3
+"690","Isleworth, England","England","EUR",1900,1907,10,12,11.5,12,0,0,3
+"690","Isleworth, England","England","EUR",1900,1907,13,15,14.5,19,0,0,3
+"2","Jakarta, Indonesia","Indonesia","SEAR",1960,1966,0,1,1,133,48,0.360902255639098,2
+"2","Jakarta, Indonesia","Indonesia","SEAR",1960,1966,2,3,3,150,37,0.246666666666667,2
+"2","Jakarta, Indonesia","Indonesia","SEAR",1960,1966,4,5,5,68,14,0.205882352941176,2
+"2","Jakarta, Indonesia","Indonesia","SEAR",1960,1966,6,7,7,29,2,0.0689655172413793,2
+"2","Jakarta, Indonesia","Indonesia","SEAR",1960,1966,8,10,10,5,1,0.2,3
+"2","Jakarta, Indonesia","Indonesia","SEAR",1960,1966,10,12,11.5,11,1,0.0909090909090909,3
+"233","Jordan","Jordan","EMR",1977,1978,2,2,2.5,2,2,1,1
+"233","Jordan","Jordan","EMR",1977,1978,3,3,3.5,5,1,0.2,1
+"233","Jordan","Jordan","EMR",1977,1978,4,4,4.5,5,1,0.2,1
+"233","Jordan","Jordan","EMR",1977,1978,5,5,5.5,2,1,0.5,1
+"233","Jordan","Jordan","EMR",1977,1978,6,6,6.5,4,2,0.5,1
+"233","Jordan","Jordan","EMR",1977,1978,7,7,7.5,2,0,0,1
+"233","Jordan","Jordan","EMR",1977,1978,8,8,8.5,2,0,0,1
+"233","Jordan","Jordan","EMR",1977,1978,10,10,10.5,1,1,1,1
+"233","Jordan","Jordan","EMR",1977,1978,11,11,11.5,1,0,0,1
+"233","Jordan","Jordan","EMR",1977,1978,12,12,12.5,1,0,0,1
+"233","Jordan","Jordan","EMR",1977,1978,13,13,13.5,1,0,0,1
+"233","Jordan","Jordan","EMR",1977,1978,25,25,25.5,1,0,0,1
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,0,1,1,50,4,0.08,2
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,2,4,3.5,151,12,0.0794701986754967,3
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,5,14,10,580,51,0.0879310344827586,10
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,15,19,17.5,315,13,0.0412698412698413,5
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,20,29,25,363,9,0.0247933884297521,10
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,30,39,35,374,17,0.0454545454545455,10
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,40,49,45,248,18,0.0725806451612903,10
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,50,59,55,135,12,0.0888888888888889,10
+"346","Kazakhstan","Kazakhstan","SEAR",1990,1993,60,69,65,17,0,0,10
+"275","Kimba, Nigeria","Nigeria","AFR",2010,2011,0,4,2.5,21,8,0.380952380952381,5
+"275","Kimba, Nigeria","Nigeria","AFR",2010,2011,5,9,7.5,42,10,0.238095238095238,5
+"275","Kimba, Nigeria","Nigeria","AFR",2010,2011,10,14,12.5,16,2,0.125,5
+"275","Kimba, Nigeria","Nigeria","AFR",2010,2011,15,80,48,19,0,0,66
+"275","Kimba, Nigeria","Nigeria","AFR",2010,2011,0,4,2.5,21,8,0.380952380952381,5
+"275","Kimba, Nigeria","Nigeria","AFR",2010,2011,5,9,7.5,42,10,0.238095238095238,5
+"275","Kimba, Nigeria","Nigeria","AFR",2010,2011,10,14,12.5,16,2,0.125,5
+"275","Kimba, Nigeria","Nigeria","AFR",2010,2011,15,80,48,19,0,0,66
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,4,4,4.5,1,0,0,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,5,5,5.5,1,0,0,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,8,8,8.5,3,1,0.333333333333333,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,9,9,9.5,2,0,0,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,11,11,11.5,2,0,0,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,13,13,13.5,2,1,0.5,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,17,17,17.5,1,0,0,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,21,21,21.5,1,1,1,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,35,35,35.5,1,0,0,1
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,41,41,41.5,1,1,1,1
+"270","Lao","Lao","SEAR",2010,2012,0,0,0.5,1,1,1,1
+"270","Lao","Lao","SEAR",2010,2012,1,4,3,6,2,0.333333333333333,4
+"270","Lao","Lao","SEAR",2010,2012,5,9,7.5,16,6,0.375,5
+"270","Lao","Lao","SEAR",2010,2012,10,14,12.5,20,2,0.1,5
+"270","Lao","Lao","SEAR",2010,2012,15,19,17.5,7,2,0.285714285714286,5
+"270","Lao","Lao","SEAR",2010,2012,20,24,22.5,5,0,0,5
+"270","Lao","Lao","SEAR",2010,2012,25,80,53,7,0,0,56
+"494","Latvia","Latvia","NIS",2000,2004,0,4,2.5,84,11,0.130952380952381,5
+"494","Latvia","Latvia","NIS",2000,2004,5,19,12.5,396,3,0.00757575757575758,15
+"494","Latvia","Latvia","NIS",2000,2004,20,29,25,195,1,0.00512820512820513,10
+"494","Latvia","Latvia","NIS",2000,2004,30,39,35,192,9,0.046875,10
+"494","Latvia","Latvia","NIS",2000,2004,40,49,45,286,37,0.129370629370629,10
+"494","Latvia","Latvia","NIS",2000,2004,50,59,55,218,29,0.13302752293578,10
+"494","Latvia","Latvia","NIS",2000,2004,60,80,70.5,144,21,0.145833333333333,21
+"235","Latvia","Latvia","NIS",1990,1993,2,3,3,40,7,0.175,2
+"235","Latvia","Latvia","NIS",1990,1993,4,9,7,77,2,0.025974025974026,6
+"235","Latvia","Latvia","NIS",1990,1993,10,16,13.5,112,0,0,7
+"235","Latvia","Latvia","NIS",1990,1993,17,80,49,530,53,0.1,64
+"11","Lesotho","Lesotho","AFR",1980,1989,0,4,2.5,4,2,0.5,5
+"11","Lesotho","Lesotho","AFR",1980,1989,5,9,7.5,6,2,0.333333333333333,5
+"11","Lesotho","Lesotho","AFR",1980,1989,10,14,12.5,26,6,0.230769230769231,5
+"11","Lesotho","Lesotho","AFR",1980,1989,15,19,17.5,19,4,0.210526315789474,5
+"11","Lesotho","Lesotho","AFR",1980,1989,20,24,22.5,7,2,0.285714285714286,5
+"11","Lesotho","Lesotho","AFR",1980,1989,25,29,27.5,2,0,0,5
+"11","Lesotho","Lesotho","AFR",1980,1989,30,34,32.5,5,0,0,5
+"11","Lesotho","Lesotho","AFR",1980,1989,35,80,58,4,0,0,46
+"Naiditch & Bower 1954","Los Angeles","United States","AMR",1940,1945,0,0,0.5,19,3,0.157894736842105,1
+"Naiditch & Bower 1954","Los Angeles","United States","AMR",1940,1945,1,4,3,410,46,0.11219512195122,4
+"Naiditch & Bower 1954","Los Angeles","United States","AMR",1940,1945,5,9,7.5,398,42,0.105527638190955,5
+"Naiditch & Bower 1954","Los Angeles","United States","AMR",1940,1945,10,19,15,207,7,0.0338164251207729,10
+"Naiditch & Bower 1954","Los Angeles","United States","AMR",1940,1945,20,29,25,173,2,0.0115606936416185,10
+"Naiditch & Bower 1954","Los Angeles","United States","AMR",1940,1945,30,39,35,104,12,0.115384615384615,10
+"Naiditch & Bower 1954","Los Angeles","United States","AMR",1940,1945,40,49,45,68,15,0.220588235294118,10
+"Naiditch & Bower 1954","Los Angeles","United States","AMR",1940,1945,50,80,65.5,54,10,0.185185185185185,31
+"271","Maranhão, Brazil","Brazil","AMR",2010,2010,0,6,4,13,2,0.153846153846154,7
+"271","Maranhão, Brazil","Brazil","AMR",2010,2010,7,19,14,11,1,0.0909090909090909,13
+"271","Maranhão, Brazil","Brazil","AMR",2010,2010,20,80,51,1,0,0,61
+"71","Medford, OR","USA","AMR",1940,1949,1,5,3.5,2,0,0,5
+"71","Medford, OR","USA","AMR",1940,1949,6,12,9.5,10,3,0.3,7
+"71","Medford, OR","USA","AMR",1940,1949,13,14,14,5,1,0.2,2
+"71","Medford, OR","USA","AMR",1940,1949,26,35,31,3,0,0,10
+"71","Medford, OR","USA","AMR",1940,1949,36,80,58.5,2,1,0.5,45
+"307","New Hampshire","USA","AMR",1730,1735,0,9,5,404,160,0.396039603960396,10
+"307","New Hampshire","USA","AMR",1730,1735,10,20,15.5,310,40,0.129032258064516,11
+"307","New Hampshire","USA","AMR",1730,1735,21,80,51,546,10,0.0183150183150183,60
+"70","Oklahoma","USA","AMR",1960,1963,3,3,3.5,2,0,0,1
+"70","Oklahoma","USA","AMR",1960,1963,5,5,5.5,1,1,1,1
+"70","Oklahoma","USA","AMR",1960,1963,6,6,6.5,1,0,0,1
+"70","Oklahoma","USA","AMR",1960,1963,7,7,7.5,1,0,0,1
+"70","Oklahoma","USA","AMR",1960,1963,8,8,8.5,2,0,0,1
+"70","Oklahoma","USA","AMR",1960,1963,10,10,10.5,1,0,0,1
+"70","Oklahoma","USA","AMR",1960,1963,11,11,11.5,1,0,0,1
+"70","Oklahoma","USA","AMR",1960,1963,13,13,13.5,2,0,0,1
+"70","Oklahoma","USA","AMR",1960,1963,14,14,14.5,1,0,0,1
+"70","Oklahoma","USA","AMR",1960,1963,32,32,32.5,1,0,0,1
+"12","Plainview, TX","USA","AMR",1960,1960,0,6,3.5,24,1,0.0416666666666667,7
+"12","Plainview, TX","USA","AMR",1960,1960,7,14,11,17,0,0,8
+"12","Plainview, TX","USA","AMR",1960,1960,15,29,22.5,10,0,0,15
+"12","Plainview, TX","USA","AMR",1960,1960,30,80,55.5,5,0,0,51
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,0,4,2.5,209,30,0.143540669856459,5
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,5,9,7.5,233,31,0.133047210300429,5
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,10,14,12.5,216,21,0.0972222222222222,5
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,15,19,17.5,170,14,0.0823529411764706,5
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,20,29,25,247,9,0.0364372469635627,10
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,30,39,35,165,6,0.0363636363636364,10
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,40,49,45,101,11,0.108910891089109,10
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,50,59,55,53,7,0.132075471698113,10
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,60,69,65,10,3,0.3,10
+"203","Republic of Georgia","Republic of Georgia","NIS",1990,1994,70,80,75.5,1,1,1,11
+"343","Republic of Georgia","Republic of Georgia","NIS",1990,1994,0,4,2.5,115,14,0.121739130434783,5
+"343","Republic of Georgia","Republic of Georgia","NIS",1990,1994,5,9,7.5,144,19,0.131944444444444,5
+"343","Republic of Georgia","Republic of Georgia","NIS",1990,1994,10,14,12.5,130,13,0.1,5
+"343","Republic of Georgia","Republic of Georgia","NIS",1990,1994,15,20,18,85,5,0.0588235294117647,6
+"343","Republic of Georgia","Republic of Georgia","NIS",1990,1994,21,29,25.5,94,4,0.0425531914893617,9
+"343","Republic of Georgia","Republic of Georgia","NIS",1990,1994,30,39,35,86,5,0.0581395348837209,10
+"343","Republic of Georgia","Republic of Georgia","NIS",1990,1994,40,49,45,49,7,0.142857142857143,10
+"343","Republic of Georgia","Republic of Georgia","NIS",1990,1994,50,59,55,24,1,0.0416666666666667,10
+"253","Russian Federation","Russia","NIS",1990,1993,0,0,1,431,33,0.0765661252900232,1
+"253","Russian Federation","Russia","NIS",1990,1993,1,2,2,2280,156,0.068421052631579,2
+"253","Russian Federation","Russia","NIS",1990,1993,3,6,5,10673,342,0.0320434741872013,4
+"253","Russian Federation","Russia","NIS",1990,1993,7,14,11,18601,228,0.0122574055158325,8
+"253","Russian Federation","Russia","NIS",1990,1993,15,17,17,7057,41,0.00580983420717019,3
+"253","Russian Federation","Russia","NIS",1990,1993,18,19,19,3935,25,0.00635324015247776,2
+"253","Russian Federation","Russia","NIS",1990,1993,20,29,25,13366,72,0.00538680233428101,10
+"253","Russian Federation","Russia","NIS",1990,1993,30,39,35,16658,295,0.0177092087885701,10
+"253","Russian Federation","Russia","NIS",1990,1993,40,49,45,18136,1172,0.064622849580944,10
+"253","Russian Federation","Russia","NIS",1990,1993,50,59,55,6577,460,0.0699407024479246,10
+"253","Russian Federation","Russia","NIS",1990,1993,60,80,71,2242,143,0.0637823371989295,21
+"344","Ukraine","Ukraine","NIS",1990,1994,0,2,1.5,353,24,0.0679886685552408,3
+"344","Ukraine","Ukraine","NIS",1990,1994,3,6,5,989,68,0.0687563195146613,4
+"344","Ukraine","Ukraine","NIS",1990,1994,7,14,11,2091,103,0.0492587278813965,8
+"344","Ukraine","Ukraine","NIS",1990,1994,15,17,16.5,1378,22,0.0159651669085631,3
+"344","Ukraine","Ukraine","NIS",1990,1994,18,29,24,3931,46,0.0117018570338336,12
+"344","Ukraine","Ukraine","NIS",1990,1994,30,39,35,3340,91,0.0272455089820359,10
+"344","Ukraine","Ukraine","NIS",1990,1994,40,49,45,3763,212,0.0563380281690141,10
+"344","Ukraine","Ukraine","NIS",1990,1994,50,59,55,1203,70,0.058187863674148,10
+"344","Ukraine","Ukraine","NIS",1990,1994,60,69,65,339,10,0.0294985250737463,10
+"Doege et al. 1963","United States","United States","AMR",1960,1960,0,6,3.5,13,1,0.0769230769230769,7
+"Doege et al. 1963","United States","United States","AMR",1960,1960,7,14,11,9,0,0,8
+"Doege et al. 1963","United States","United States","AMR",1960,1960,15,29,22.5,9,0,0,15
+"Doege et al. 1963","United States","United States","AMR",1960,1960,30,80,55.5,4,0,0,51
+"197","United States","United States","AMR",1960,1964,0,4,2.5,739,118,0.159675236806495,5
+"197","United States","United States","AMR",1960,1964,5,19,12.5,1494,121,0.0809906291834003,15
+"197","United States","United States","AMR",1960,1964,20,80,50.5,314,14,0.0445859872611465,61
+"113","University College Hospital","UK","EUR",1890,1891,0,0,1,3,2,0.666666666666667,1
+"113","University College Hospital","UK","EUR",1890,1891,1,1,1.5,6,3,0.5,1
+"113","University College Hospital","UK","EUR",1890,1891,2,2,2.5,11,5,0.454545454545455,1
+"113","University College Hospital","UK","EUR",1890,1891,3,3,3.5,8,3,0.375,1
+"113","University College Hospital","UK","EUR",1890,1891,4,4,4.5,11,5,0.454545454545455,1
+"113","University College Hospital","UK","EUR",1890,1891,5,5,5.5,5,3,0.6,1
+"113","University College Hospital","UK","EUR",1890,1891,6,9,8,4,1,0.25,4
+"113","University College Hospital","UK","EUR",1890,1891,10,14,12.5,8,0,0,5
+"113","University College Hospital","UK","EUR",1890,1891,15,80,48,6,0,0,66
+"113","University College Hospital","UK","EUR",1890,1892,0,0,1,3,2,0.666666666666667,1
+"113","University College Hospital","UK","EUR",1890,1892,1,1,1.5,9,4,0.444444444444444,1
+"113","University College Hospital","UK","EUR",1890,1892,2,2,2.5,6,2,0.333333333333333,1
+"113","University College Hospital","UK","EUR",1890,1892,3,3,3.5,5,3,0.6,1
+"113","University College Hospital","UK","EUR",1890,1892,4,4,4.5,10,4,0.4,1
+"113","University College Hospital","UK","EUR",1890,1892,5,5,5.5,6,2,0.333333333333333,1
+"113","University College Hospital","UK","EUR",1890,1892,6,9,8,10,2,0.2,4
+"113","University College Hospital","UK","EUR",1890,1892,10,14,12.5,3,0,0,5
+"113","University College Hospital","UK","EUR",1890,1892,15,80,48,8,1,0.125,66
+"113","University College Hospital","UK","EUR",1890,1893,0,0,1,3,3,1,1
+"113","University College Hospital","UK","EUR",1890,1893,1,1,1.5,9,6,0.666666666666667,1
+"113","University College Hospital","UK","EUR",1890,1893,2,2,2.5,22,9,0.409090909090909,1
+"113","University College Hospital","UK","EUR",1890,1893,3,3,3.5,12,6,0.5,1
+"113","University College Hospital","UK","EUR",1890,1893,4,4,4.5,12,6,0.5,1
+"113","University College Hospital","UK","EUR",1890,1893,5,5,5.5,6,2,0.333333333333333,1
+"113","University College Hospital","UK","EUR",1890,1893,6,9,8,15,5,0.333333333333333,4
+"113","University College Hospital","UK","EUR",1890,1893,10,14,12.5,5,0,0,5
+"113","University College Hospital","UK","EUR",1890,1893,15,80,48,21,2,0.0952380952380952,66
+"113","University College Hospital","UK","EUR",1890,1894,0,0,1,2,1,0.5,1
+"113","University College Hospital","UK","EUR",1890,1894,1,1,1.5,6,4,0.666666666666667,1
+"113","University College Hospital","UK","EUR",1890,1894,2,2,2.5,6,6,1,1
+"113","University College Hospital","UK","EUR",1890,1894,3,3,3.5,8,4,0.5,1
+"113","University College Hospital","UK","EUR",1890,1894,4,4,4.5,12,3,0.25,1
+"113","University College Hospital","UK","EUR",1890,1894,5,5,5.5,7,3,0.428571428571429,1
+"113","University College Hospital","UK","EUR",1890,1894,6,9,8,10,3,0.3,4
+"113","University College Hospital","UK","EUR",1890,1894,10,14,12.5,6,0,0,5
+"113","University College Hospital","UK","EUR",1890,1895,15,80,48,7,1,0.142857142857143,66
+"113","University College Hospital","UK","EUR",1890,1895,0,0,1,1,0,0,1
+"113","University College Hospital","UK","EUR",1890,1895,1,1,1.5,17,7,0.411764705882353,1
+"113","University College Hospital","UK","EUR",1890,1895,2,2,2.5,13,4,0.307692307692308,1
+"113","University College Hospital","UK","EUR",1890,1895,3,3,3.5,7,3,0.428571428571429,1
+"113","University College Hospital","UK","EUR",1890,1895,4,4,4.5,10,3,0.3,1
+"113","University College Hospital","UK","EUR",1890,1895,5,5,5.5,8,3,0.375,1
+"113","University College Hospital","UK","EUR",1890,1895,6,9,8,11,0,0,4
+"113","University College Hospital","UK","EUR",1890,1895,10,14,12.5,4,1,0.25,5
+"113","University College Hospital","UK","EUR",1890,1895,15,80,48,4,0,0,66
+"204","Uzbekistan","Uzbekistan","NIS",1990,1996,0,2,1.5,41,13,0.317073170731707,3
+"204","Uzbekistan","Uzbekistan","NIS",1990,1996,3,6,5,134,30,0.223880597014925,4
+"204","Uzbekistan","Uzbekistan","NIS",1990,1996,7,14,11,344,40,0.116279069767442,8
+"204","Uzbekistan","Uzbekistan","NIS",1990,1996,15,80,48,708,59,0.0833333333333333,66
+"772","Washington, DC","USA","AMR",1910,1911,0,1,1,79,12,0.151898734177215,2
+"772","Washington, DC","USA","AMR",1910,1911,1,4,3,787,107,0.135959339263024,4
+"772","Washington, DC","USA","AMR",1910,1911,5,9,7.5,1262,62,0.0491283676703645,5
+"772","Washington, DC","USA","AMR",1910,1911,10,19,15,1135,15,0.013215859030837,10
+"772","Washington, DC","USA","AMR",1910,1911,20,80,50.5,695,14,0.0201438848920863,61

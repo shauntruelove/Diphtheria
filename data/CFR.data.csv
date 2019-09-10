@@ -1,0 +1,439 @@
+"","Location","Outbreak","Country","Region","Date","Mid.Date","Antitoxin","CFR.adjusted","CFR","Cases","Deaths","Pop.size","Author.Year","Ref_index","DTP3.","Outbreak.Size"
+"1","Alabama",NA,"US","AMR","1967",1967,"yes",25,"0.25",20,5,NA,"SINCLAIR et al. 1971",NA,NA,25
+"2","Armenia",NA,"Armenia","NIS","1990-1996",1993,"Yes",14,"0.14",84,12,NA,"Balasanian et al. 2000",NA,NA,96
+"3","Assam, India",NA,"India","SEAR","2008",2008,"NO",3,"0.03",60,2,NA,"Nath et al. 2010",NA,"0.77",62
+"4","Assam, India",NA,"India","SEAR","2009",2009,"NO",31,"0.31",13,4,NA,"Saikia et al. 2010",NA,NA,17
+"5","Athens, Greece",NA,"Greece","EUR","1946-1947",1946,"Yes",6,"0.06",551,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"6","Austin",NA,"US","AMR","1967-1969",1968,"Yes",3,"0.03",88,3,NA,"Zalma et al. 1970",NA,NA,91
+"7","Azerbaijan",NA,"Azerbaijan","NIS","1990-1996",1993,"Yes",13,"0.13",2170,286,NA,"Graham-Smith 1901",NA,NA,2456
+"8","Baltimore",NA,"US","AMR","1941",1941,"Yes",6,"0.06",47,3,NA,"Eller & Frobisher 1945",NA,NA,50
+"9","Baltimore",NA,"US","AMR","1942",1942,"Yes",3,"0.03",74,2,NA,"Eller & Frobisher 1945",NA,NA,76
+"10","Baltimore",NA,"US","AMR","1943",1943,"Yes",3,"0.03",106,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"11","Baltimore",NA,"US","AMR","1944",1944,"Yes",6,"0.06",144,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"12","Belarus",NA,"Belarus","NIS","1990-1996",1993,"Yes",3,"0.03",1930,52,NA,"Filonov et al. 2000",NA,NA,1982
+"13","Boston",NA,"US","AMR","1895-1920",1907,"Yes",10,"0.10",33513,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"14","Boston",NA,"US","AMR","1921-1946",1933,"Yes",10,"0.10",5478,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"15","Boston, MA",NA,"US","AMR","1885-1889",1887,"No",43,"0.43",1423,609,NA,"Crum 1917",NA,NA,2032
+"16","Boston, MA",NA,"US","AMR","1890-1894",1892,"No",42,"0.42",2156,910,NA,"Crum 1917",NA,NA,3066
+"17","Boston, MA",NA,"US","AMR","1895-1899",1897,"Yes",12,"0.12",7156,947,NA,"Crum 1917",NA,NA,8103
+"18","Boston, MA",NA,"US","AMR","1900-1904",1902,"Yes",10,"0.10",8257,849,NA,"Crum 1917",NA,NA,9106
+"19","Boston, MA",NA,"US","AMR","1905-1909",1907,"Yes",8,"0.08",6935,520,NA,"Crum 1917",NA,NA,7455
+"20","Boston, MA",NA,"US","AMR","1910-1914",1912,"Yes",8,"0.08",6286,476,NA,"Crum 1917",NA,NA,6762
+"21","Brazil",NA,"Brazil","AMR","2010",2010,"No",11,"0.11",27,3,NA,"Santos et al. 2015",271,NA,30
+"22","Buri Ram, Thailand",NA,"Thailand","SEAR","1996",1996,"Yes",0,"0.00",31,0,NA,"Pantukosit et al. 2008",NA,NA,31
+"23","Chicago",NA,"US","AMR","1928-1932",1930,"Yes",12,"0.12",4671,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"24","Colchester",NA,"England","EUR","1901",1900,"no",26,"0.26",81,21,NA,"Graham-Smith 1901",675,NA,102
+"25","Colchester",NA,"England","EUR","1901",1900,"yes",9,"0.09",203,18,NA,"Graham-Smith 1901",675,NA,221
+"26","Copenhagen",NA,"Denmark","EUR","1945",1945,"Yes",10,"0.10",1754,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"27","Dade County, Florida","YES","US","AMR","1969",1969,"Yes",27,"0.27",11,3,NA,"Hennekens & Saslaw 1976",17,NA,14
+"28","Dibrugarh District of Assam, India",NA,"India","SEAR","2010",2010,"Yes",3,"0.03",60,2,NA,"Nath & Mahanta 2010",NA,NA,62
+"29","Eastern Hospital",NA,"England","EUR","1894",1894,"No",1,"0.01",452,4,NA,"Goodall 1899",NA,NA,456
+"30","Eastern Hospital",NA,"England","EUR","1895-1897",1896,"Yes",1,"0.01",1580,18,NA,"Goodall 1899",NA,NA,1598
+"31","England",NA,"England","EUR","1935-1939",1937,"Yes",5,"0.05",59114,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"32","England",NA,"England","EUR","1945",1945,"Yes",4,"0.04",18596,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"33","England",NA,"England","EUR","1946",1946,"Yes",4,"0.04",12337,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"34","England and Wales",NA,"UK","EUR","1940-1955",1947,"Yes",5,"0.05",NA,NA,NA,"Epidemiology Report, PHLS, CDSC. Br Med J 1986;292: 1385-6.",NA,NA,NA
+"35","England and Wales",NA,"UK","EUR","1956-1982",1969,"Yes",8,"0.08",NA,NA,NA,"Epidemiology Report, PHLS, CDSC. Br Med J 1986;292: 1385-6.",NA,NA,NA
+"36","Estonia",NA,"Estonia","NIS","1991-1996",1990,"Yes",8,"0.08",61,5,NA,"Jõgiste 2000",NA,NA,66
+"37","Gateshead, UK",NA,"UK","EUR","1936-1943",1939,"Yes",5,"0.05",2278,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"38","Georgia",NA,"Georgia","NIS","1993",1993,"Yes",10,"0.10",659,68,NA,"Quick 2000",NA,NA,727
+"39","Germany",NA,"Germany","EUR","1939",1939,"Yes",4,"0.04",150000,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"40","Germany",NA,"Germany","EUR","1942",1942,"Yes",5,"0.05",237000,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"41","Glasgow",NA,"Scotland","EUR","1932-1946",1939,"Yes",4,"0.04",17832,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"42","Glasgow",NA,"Scotland","EUR","1934-1942",1938,"Yes",4,"0.04",11313,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"43","Halifax, Nova Scotia",NA,"Canada","AMR","1940-1941",1940,"Yes",3,"0.04",649,24,NA,"Wheeler 1942",NA,NA,673
+"44","Hungary",NA,"Hungary","NIS","1940",1940,"Yes",6,"0.06",4927,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"45","Hungary",NA,"Hungary","NIS","1946",1946,"Yes",12,"0.12",9576,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"46","Illinois-Rural",NA,"US","AMR","1936-1940",1938,"Yes",8,"0.072-0.088",NA,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"47","Illinois-Urban",NA,"US","AMR","1936-1940",1938,"Yes",12,"0.1-0.148",NA,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"48","Indianapolis",NA,"US","AMR","1896",1896,"No",26,"0.26",232,61,NA,NA,NA,NA,293
+"49","Indianapolis",NA,"US","AMR","1896",1896,"Yes",13,"0.13",202,27,NA,NA,NA,NA,229
+"50","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1954",1954,"Yes",9,"0.09",673,NA,NA,"Singh et al. 1999",NA,NA,NA
+"51","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1955",1955,"Yes",7,"0.07",1019,NA,NA,"Singh et al. 1999",NA,NA,NA
+"52","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1956",1956,"Yes",8,"0.08",1246,NA,NA,"Singh et al. 1999",NA,NA,NA
+"53","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1957",1957,"Yes",7,"0.07",1332,NA,NA,"Singh et al. 1999",NA,NA,NA
+"54","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1958",1958,"Yes",7,"0.07",1275,NA,NA,"Singh et al. 1999",NA,NA,NA
+"55","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1959",1959,"Yes",5,"0.05",1592,NA,NA,"Singh et al. 1999",NA,NA,NA
+"56","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1960",1960,"Yes",5,"0.05",1555,NA,NA,"Singh et al. 1999",NA,NA,NA
+"57","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1961",1961,"Yes",6,"0.06",1659,NA,NA,"Singh et al. 1999",NA,NA,NA
+"58","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1962",1962,"Yes",7,"0.07",1351,NA,NA,"Singh et al. 1999",NA,NA,NA
+"59","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1963",1963,"Yes",10,"0.10",1517,NA,NA,"Singh et al. 1999",NA,NA,NA
+"60","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1964",1964,"Yes",8,"0.08",1299,NA,NA,"Singh et al. 1999",NA,NA,NA
+"61","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1965",1965,"Yes",8,"0.08",1100,NA,NA,"Singh et al. 1999",NA,NA,NA
+"62","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1966",1966,"Yes",10,"0.10",986,NA,NA,"Singh et al. 1999",NA,NA,NA
+"63","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1967",1967,"Yes",21,"0.21",422,NA,NA,"Singh et al. 1999",NA,NA,NA
+"64","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1968",1968,"Yes",21,"0.21",412,NA,NA,"Singh et al. 1999",NA,NA,NA
+"65","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1969",1969,"Yes",21,"0.21",412,NA,NA,"Singh et al. 1999",NA,NA,NA
+"66","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1970",1970,"Yes",23,"0.23",351,NA,NA,"Singh et al. 1999",NA,NA,NA
+"67","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1971",1971,"Yes",15,"0.15",427,NA,NA,"Singh et al. 1999",NA,NA,NA
+"68","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1972",1972,"Yes",20,"0.20",393,NA,NA,"Singh et al. 1999",NA,NA,NA
+"69","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1973",1973,"Yes",22,"0.22",374,NA,NA,"Singh et al. 1999",NA,NA,NA
+"70","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1974",1974,"Yes",26,"0.26",318,NA,NA,"Singh et al. 1999",NA,NA,NA
+"71","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1975",1975,"Yes",12,"0.12",322,NA,NA,"Singh et al. 1999",NA,NA,NA
+"72","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1976",1976,"Yes",13,"0.13",308,NA,NA,"Singh et al. 1999",NA,NA,NA
+"73","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1977",1977,"Yes",22,"0.22",213,NA,NA,"Singh et al. 1999",NA,NA,NA
+"74","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1978",1978,"Yes",10,"0.10",336,NA,NA,"Singh et al. 1999",NA,NA,NA
+"75","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1979",1979,"Yes",14,"0.14",171,NA,NA,"Singh et al. 1999",NA,NA,NA
+"76","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1980",1980,"Yes",18,"0.18",171,NA,NA,"Singh et al. 1999",NA,NA,NA
+"77","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1981",1981,"Yes",23,"0.23",152,NA,NA,"Singh et al. 1999",NA,NA,NA
+"78","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1982",1982,"Yes",24,"0.24",175,NA,NA,"Singh et al. 1999",NA,NA,NA
+"79","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1983",1983,"Yes",21,"0.21",237,NA,NA,"Singh et al. 1999",NA,NA,NA
+"80","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1984",1984,"Yes",22,"0.22",218,NA,NA,"Singh et al. 1999",NA,NA,NA
+"81","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1985",1985,"Yes",25,"0.25",270,NA,NA,"Singh et al. 1999",NA,NA,NA
+"82","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1986",1986,"Yes",24,"0.24",280,NA,NA,"Singh et al. 1999",NA,NA,NA
+"83","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1987",1987,"Yes",26,"0.26",284,NA,NA,"Singh et al. 1999",NA,NA,NA
+"84","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1988",1988,"Yes",32,"0.32",422,NA,NA,"Singh et al. 1999",NA,NA,NA
+"85","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1989",1989,"Yes",35,"0.35",280,NA,NA,"Singh et al. 1999",NA,NA,NA
+"86","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1990",1990,"Yes",36,"0.36",299,NA,NA,"Singh et al. 1999",NA,NA,NA
+"87","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1991",1991,"Yes",27,"0.27",232,NA,NA,"Singh et al. 1999",NA,NA,NA
+"88","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1992",1992,"Yes",33,"0.33",246,NA,NA,"Singh et al. 1999",NA,NA,NA
+"89","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1993",1993,"Yes",33,"0.33",204,NA,NA,"Singh et al. 1999",NA,NA,NA
+"90","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1994",1994,"Yes",25,"0.25",209,NA,NA,"Singh et al. 1999",NA,NA,NA
+"91","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1995",1995,"Yes",34,"0.34",166,NA,NA,"Singh et al. 1999",NA,NA,NA
+"92","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1996",1996,"Yes",39,"0.39",185,NA,NA,"Singh et al. 1999",NA,NA,NA
+"93","Infectious Diseases Hospital, Delhi, India",NA,"India","SEAR","1997",1997,"Yes",31,"0.31",152,NA,NA,"Singh et al. 1999",NA,NA,NA
+"94","Ireland",NA,"Ireland","EUR","1943-1944",1943,"Yes",2,"0.02",125,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"95","Jiangling county, Hubei province, China",NA,"China","SEAR","1988",1988,"Yes",2,"0.02",103,2,NA,"Youwang et al 1992",NA,NA,105
+"96","Jordan",NA,"Jordan","EMR","1977-1978",1977,"Yes",29,"0.29",27,NA,NA,"Galazka & Robertson 1995",NA,NA,NA
+"97","Jordan University Hospital",NA,"Jordan","EMR","1982-1983",1982,"Yes",6,"0.06",35,2,NA,"Khuri-Bulos 1988",649,NA,37
+"98","Kimba, Nigeria",NA,"Nigeria","AFR","2011",2011,"No",21,"0.21",98,21,NA,"Besa et al. 2014",NA,NA,119
+"99","Kyrgyz Republic",NA,"Russia Federation","NIS","1994–1998",1996,"Yes",3,"0.03",676,19,NA,"Glinyenko et al. 2000",NA,NA,695
+"100","Land Oldenburg, Germany",NA,"Germany","EUR","1945-1946",1945,"Yes",6,"0.06",1242,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"101","Land Oldenburg, Germany",NA,"Germany","EUR","1945-1946",1945,"Yes",5,"0.05",2296,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"103","Lesotho",NA,"Lesotho","AFR","1989",1989,"Yes",23,"0.23",68,15,NA,"Van Geldermalsen & Wenning 1991",NA,NA,83
+"104","Loevinsohn 1990",NA,"Sudan","AFR","1988",1988,"Yes",3,"0.03",209,NA,NA,"Galazka & Robertson 1995",NA,NA,NA
+"105","Loevinsohn 1990",NA,"Sudan","AFR","1978",1978,"Yes",21,"0.21",107,NA,NA,"Galazka & Robertson 1995",NA,NA,NA
+"106","London",NA,"England","EUR","1890-1894",1892,"No",30,"0.30",10777,3196,NA,"Crum 1917",NA,NA,13973
+"107","London",NA,"England","EUR","1895-1899",1897,"Yes",17,"0.17",29058,4928,NA,"Crum 1917",NA,NA,33986
+"108","London",NA,"England","EUR","1900-1904",1902,"Yes",11,"0.11",31774,3549,NA,"Crum 1917",NA,NA,35323
+"109","London",NA,"England","EUR","1905-1909",1907,"Yes",9,"0.09",24733,2275,NA,"Crum 1917",NA,NA,27008
+"110","London",NA,"England","EUR","1910-1914",1912,"Yes",8,"0.08",25179,1910,NA,"Crum 1917",NA,NA,27089
+"111","London",NA,"England","EUR","1893",1893,"No",24,"0.24",13694,3264,NA,"Murphey 1898",NA,NA,16958
+"112","London",NA,"England","EUR","1894",1894,"No",24,"0.24",11190,2674,NA,"Murphey 1898",NA,NA,13864
+"113","London",NA,"England","EUR","1895",1895,"Yes",21,"0.21",11229,2316,NA,"Murphey 1898",NA,NA,13545
+"114","London",NA,"England","EUR","1896",1896,"Yes",20,"0.20",13608,2684,NA,"Murphey 1898",NA,NA,16292
+"115","London",NA,"England","EUR","1897",1897,"Yes",18,"0.18",12807,2261,NA,"Murphey 1898",NA,NA,15068
+"116","London County",NA,"England","EUR","1892-1897",1894,NA,21,"0.21",77358,16233,NA,"Murphy 1892-1897",NA,NA,93591
+"117","Los Angeles",NA,"US","AMR","1938-1940",1939,"Yes",5,"0.05",753,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"118","Los Angeles",NA,"US","AMR","1940-1950",1945,"Yes",10,"0.10",1433,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"119","Milwaukee",NA,"US","AMR","1895",1895,"Yes",27,"0.27",433,117,NA,NA,NA,NA,550
+"120","Milwaukee",NA,"US","AMR","1890-1894",1893,"No",31,"0.31",4565,1425,NA,NA,NA,NA,5990
+"121","Minneapolis",NA,"US","AMR","1895",1895,"Yes",8,"0.08",131,11,NA,NA,NA,NA,142
+"122","Minneapolis",NA,"US","AMR","1894",1894,"No",28,"0.28",191,54,NA,NA,NA,NA,245
+"123","Moldova",NA,"Moldova","NIS","1991",1991,"Yes",0,"0.00",NA,NA,NA,"Magdei et al. 2000",NA,NA,NA
+"124","Moldova",NA,"Moldova","NIS","1992",1992,"Yes",5,"0.05",NA,NA,NA,"Magdei et al. 2000",NA,NA,NA
+"125","Moldova",NA,"Moldova","NIS","1993",1993,"Yes",11,"0.11",35,4,NA,"Magdei et al. 2000",NA,NA,39
+"126","Moldova",NA,"Moldova","NIS","1994",1994,"Yes",5,"0.05",376,19,NA,"Magdei et al. 2000",NA,NA,395
+"127","Moldova",NA,"Moldova","NIS","1995",1995,"Yes",6,"0.06",418,24,NA,"Magdei et al. 2000",NA,NA,442
+"128","Moldova",NA,"Moldova","NIS","1996",1996,"Yes",5,"0.05",94,4,NA,"Magdei et al. 2000",NA,NA,98
+"129","Montreal",NA,"Canada","AMR","1887-1889",1888,"No",46,"0.46",3758,1714,NA,"Naiditch & Bower 1954",NA,NA,5472
+"130","Montreal",NA,"Canada","AMR","1930-1934",1932,"Yes",9,"0.09",2785,256,NA,"Naiditch & Bower 1954",NA,NA,3041
+"131","Montreal",NA,"Canada","AMR","1943",1943,"Yes",17,"0.17",158,27,NA,"Naiditch & Bower 1954",NA,NA,185
+"132","Naples, Italy",NA,"Italy","EUR","1938-1947",1942,"Yes",5,"0.05",6242,293,NA,"Naiditch & Bower 1954",NA,NA,6535
+"133","Netherlands",NA,"Netherlands","EUR","1942-1944",1943,"Yes",7,"0.07",149999,10500,NA,"Naiditch & Bower 1954",NA,NA,160499
+"134","New York",NA,"US","AMR","1891-1894",1892,"No",35,"0.35",20011,6936,NA,NA,NA,NA,26947
+"135","New York",NA,"US","AMR","1895",1895,"Yes",19,"0.19",7921,1543,NA,NA,NA,NA,9464
+"136","New York City",NA,"US","AMR","1933-1938",1935,"Yes",6,"0.06",3220,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"137","New York State",NA,"US","AMR","1921-1945",1933,"Yes",7,"0.07",42525,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"138","New York, NY",NA,"US","AMR","1880-1884",1882,"No",69,"0.69",16329,11332,NA,"Crum 1917",NA,NA,27661
+"139","New York, NY",NA,"US","AMR","1885-1894",1890,"No",42,"0.42",57120,24062,NA,"Crum 1917",NA,NA,81182
+"140","New York, NY",NA,"US","AMR","1895-1904",1900,"Yes",14,"0.14",98753,13486,NA,"Crum 1917",NA,NA,112239
+"141","New York, NY",NA,"US","AMR","1905-1914",1910,"Yes",10,"0.10",90284,9232,NA,"Crum 1917",NA,NA,99516
+"142","New York, NY",NA,"US","AMR","1915",1915,"Yes",8,"0.08",9109,750,NA,"Crum 1917",NA,NA,9859
+"143","Newark, NJ",NA,"US","AMR","1895-1899",1897,"No",22,"0.22",2444,528,NA,"Crum 1917",772,NA,2972
+"144","Newark, NJ",NA,"US","AMR","1900-1904",1902,"No",20,"0.20",1289,256,NA,"Crum 1917",772,NA,1545
+"145","Newark, NJ",NA,"US","AMR","1905-1909",1907,"No",23,"0.23",622,144,NA,"Crum 1917",772,NA,766
+"146","Newark, NJ",NA,"US","AMR","1910-1914",1912,"No",18,"0.18",505,89,NA,"Crum 1917",772,NA,594
+"147","Newark, NJ",NA,"US","AMR","1915",1915,"No",18,"0.18",22,4,NA,"Crum 1917",772,NA,26
+"148","Newark, NJ",NA,"US","AMR","1895-1899",1897,"Yes",11,"0.11",3296,357,NA,"Crum 1917",772,NA,3653
+"149","Newark, NJ",NA,"US","AMR","1900-1904",1902,"Yes",7,"0.07",4970,365,NA,"Crum 1917",772,NA,5335
+"150","Newark, NJ",NA,"US","AMR","1905-1909",1907,"Yes",6,"0.06",5348,331,NA,"Crum 1917",772,NA,5679
+"151","Newark, NJ",NA,"US","AMR","1910-1914",1912,"Yes",6,"0.06",6409,379,NA,"Crum 1917",772,NA,6788
+"152","Newark, NJ",NA,"US","AMR","1915",1915,"Yes",4,"0.04",1085,48,NA,"Crum 1917",772,NA,1133
+"153","Novgorod city",NA,"Russia Federation","NIS","1995",1995,"Yes",1,"0.01",502,7,NA,"Vitek et al 1998",NA,NA,509
+"154","Poland",NA,"Poland","NIS","1946",1946,"Yes",5,"0.05",22412,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"155","Prabhuddabath Distrct, Thailand",NA,"Thailand","SEAR","1994",1994,"Yes",17,"0.17",18,3,NA,"“Diphtheria Outbreak — Saraburi Province, Thailand, 1994.” Morbidity and Mortality Weekly Report, vol. 45, no. 13, 1996, pp. 271–273. JSTOR, JSTOR, www.jstor.org/stable/23306832.",NA,NA,21
+"156","Republic of Kazakhstan",NA,"Russia Federation","NIS","1990–1996",1993,"Yes",6,"0.06",2233,136,NA,"Kembabanova et al 2000",NA,NA,2369
+"157","Russian Federation",NA,"Russia Federation","NIS","1990-1999",1994,"Yes",3,"0.03",NA,NA,NA,"Vitek et al 1998",NA,NA,NA
+"158","Russian Federation",NA,"Russia Federation","NIS","1993",1993,"Yes",3,"0.03",88748,2243,NA,"Vitek et al 1998",NA,NA,90991
+"159","San Antonio",NA,"US","AMR","1970",1970,"Yes",1,"0.01",196,2,NA,"Marcuse & Grand 1973",356,NA,198
+"160","San Francisco",NA,"US","AMR","1942-1950",1946,"Yes",19,"0.19",273,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"161","Saraburi Province, Thailand",NA,"Thailand","SEAR","1994",1994,"NO",17,"0.17",18,3,NA,"MMWR 1996",NA,NA,21
+"162","Scotland",NA,"Scotland","EUR","1941-1942",1941,"Yes",5,"0.05",17091,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"163","Scotland",NA,"Scotland","EUR","1943",1943,"Yes",1,"0.01",2833,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"164","Scotland",NA,"Scotland","EUR","1943",1943,"Yes",4,"0.04",2521,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"165","Scotland",NA,"Scotland","EUR","1946",1946,"Yes",1,"0.01",825,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"166","Scotland",NA,"Scotland","EUR","1946",1946,"Yes",2,"0.02",NA,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"167","St Louis",NA,"US","AMR","1886-1894",1895,"No",30,"0.30",12308,3677,NA,NA,NA,NA,15985
+"168","St Louis",NA,"US","AMR","1895",1895,"Yes",18,"0.18",2878,519,NA,NA,NA,NA,3397
+"169","St. Petersburg, Russia",NA,"Russia Federation","NIS","1989",1989,"Yes",2,"0.02",1860,42,NA,"Rakhmanova et al. 1996",NA,NA,1902
+"170","Stockholm",NA,"Sweden","EUR","1941-1947",1944,"Yes",4,"0.04",3599,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"171","Swedish Alcoholics",NA,"Sweden","EUR","1984-1986",1985,"Yes",23,"0.23",13,3,NA,"Bjrkholm et al. 1987",NA,NA,16
+"172","Tajikistan",NA,"Russia Federation","NIS","1990–1992",1991,"Yes",27,"0.27",NA,NA,NA,"Usmanov et al 2000",NA,NA,NA
+"173","Tajikistan",NA,"Russia Federation","NIS","1993",1993,"Yes",13,"0.13",701,94,NA,"Usmanov et al 2000",NA,NA,795
+"174","Tajikistan",NA,"Russia Federation","NIS","1994",1994,"Yes",11,"0.11",1936,218,NA,"Usmanov et al 2000",NA,NA,2154
+"175","Tajikistan",NA,"Russia Federation","NIS","1995",1995,"Yes",7,"0.07",4466,333,NA,"Usmanov et al 2000",NA,NA,4799
+"176","Tajikistan",NA,"Russia Federation","NIS","1996",1996,"Yes",7,"0.07",1521,103,NA,"Usmanov et al 2000",NA,NA,1624
+"177","Tajikistan",NA,"Russia Federation","NIS","1997",1997,"Yes",8,"0.08",434,NA,NA,"Usmanov et al 2000",NA,NA,NA
+"178","Total study regions",NA,"Russia Federation","NIS","1993-1995",1994,"Yes",3,"0.03",2307,63,NA,"Vitek et al 1998",NA,NA,2370
+"179","Totonto (Hospital)",NA,"Canada","AMR","1912",1912,"Yes",8,"0.08",663,53,NA,"Fitzgerald 1920",NA,NA,716
+"180","Totonto (Hospital)",NA,"Canada","AMR","1913",1913,"Yes",6,"0.06",569,35,NA,"Fitzgerald 1920",NA,NA,604
+"181","Totonto (Hospital)",NA,"Canada","AMR","1914",1914,"Yes",8,"0.08",601,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"182","Totonto (Hospital)",NA,"Canada","AMR","1915",1915,"Yes",7,"0.07",537,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"183","Totonto (Hospital)",NA,"Canada","AMR","1916",1916,"Yes",7,"0.07",884,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"184","Totonto (Hospital)",NA,"Canada","AMR","1917",1917,"Yes",4,"0.04",1124,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"185","Totonto (Hospital)",NA,"Canada","AMR","1918",1918,"Yes",6,"0.06",1015,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"186","Totonto (Hospital)",NA,"Canada","AMR","1919",1919,"Yes",6,"0.06",1327,96,NA,"Fitzgerald 1920",NA,NA,1423
+"187","Totonto (Not Hospital)",NA,"Canada","AMR","1912",1912,"Yes",13,"0.13",720,91,NA,"Fitzgerald 1920",NA,NA,811
+"188","Totonto (Not Hospital)",NA,"Canada","AMR","1913",1913,"Yes",10,"0.10",326,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"189","Totonto (Not Hospital)",NA,"Canada","AMR","1914",1914,"Yes",10,"0.10",272,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"190","Totonto (Not Hospital)",NA,"Canada","AMR","1915",1915,"Yes",13,"0.13",209,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"191","Totonto (Not Hospital)",NA,"Canada","AMR","1916",1916,"Yes",12,"0.12",356,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"192","Totonto (Not Hospital)",NA,"Canada","AMR","1917",1917,"Yes",11,"0.11",321,NA,NA,"Fitzgerald 1920",NA,NA,NA
+"193","Totonto (Not Hospital)",NA,"Canada","AMR","1918",1918,"Yes",20,"0.20",158,31,NA,"Fitzgerald 1920",NA,NA,189
+"194","Totonto (Not Hospital)",NA,"Canada","AMR","1919",1919,"Yes",20,"0.20",805,72,NA,"Fitzgerald 1920",NA,NA,877
+"195","UK Army",NA,"UK","EUR","1944",1944,"Yes",2,"0.02",534,NA,NA,"Naiditch & Bower 1954",NA,NA,NA
+"196","Ukraine",NA,"Ukraine","NIS","1991-1997",1994,"Yes",4,"0.04",17387,646,NA,"Nekrassova et al. 2000",NA,NA,18033
+"197","United States",NA,"US","AMR","1980-1995",1987,"Yes",10,"0.10",41,4,NA,"Bisgard et al 1998",NA,NA,45
+"198","United States",NA,"US","AMR","1940",1940,"Yes",9,"0.09",15536,1457,NA,"Brooks 1969",NA,NA,16993
+"199","United States",NA,"US","AMR","1950",1950,"Yes",7,"0.07",5796,410,NA,"Brooks 1969",NA,NA,6206
+"200","United States",NA,"US","AMR","1960",1960,"Yes",8,"0.08",918,69,NA,"Brooks 1969",NA,NA,987
+"201","United States",NA,"US","AMR","1965",1965,"Yes",11,"0.11",164,18,NA,"Brooks 1969",NA,NA,182
+"202","United States",NA,"US","AMR","1966",1966,"Yes",10,"0.10",209,20,NA,"Brooks 1969",NA,NA,229
+"203","United States",NA,"US","AMR","1967",1967,"Yes",11,"0.11",219,25,NA,"Brooks 1969",NA,NA,244
+"204","United States",NA,"US","AMR","1959",1959,"Yes",7,"0.07",868,58,NA,"Doege et al. 1962",NA,NA,926
+"205","United States",NA,"US","AMR","1960",1960,"Yes",8,"0.08",873,67,NA,"Doege et al. 1962",NA,NA,940
+"206","United States",NA,"US","AMR","1933",1933,"Yes",10,"0.10",50462,4937,NA,"Moore & Larsen 1957",NA,NA,55399
+"207","United States",NA,"US","AMR","1934",1934,"Yes",10,"0.10",43156,4159,NA,"Moore & Larsen 1957",NA,NA,47315
+"208","United States",NA,"US","AMR","1935",1935,"Yes",10,"0.10",39226,3901,NA,"Moore & Larsen 1957",NA,NA,43127
+"209","United States",NA,"US","AMR","1936",1936,"Yes",10,"0.10",30018,3065,NA,"Moore & Larsen 1957",NA,NA,33083
+"210","United States",NA,"US","AMR","1937",1937,"Yes",9,"0.09",28536,2637,NA,"Moore & Larsen 1957",NA,NA,31173
+"211","United States",NA,"US","AMR","1938",1938,"Yes",8,"0.08",30508,2556,NA,"Moore & Larsen 1957",NA,NA,33064
+"212","United States",NA,"US","AMR","1939",1939,"Yes",8,"0.08",24053,1997,NA,"Moore & Larsen 1957",NA,NA,26050
+"213","United States",NA,"US","AMR","1940",1940,"Yes",9,"0.09",15536,1457,NA,"Moore & Larsen 1957",NA,NA,16993
+"214","United States",NA,"US","AMR","1941",1941,"Yes",7,"0.07",17987,1293,NA,"Moore & Larsen 1957",NA,NA,19280
+"215","United States",NA,"US","AMR","1942",1942,"Yes",8,"0.08",16260,1273,NA,"Moore & Larsen 1957",NA,NA,17533
+"216","United States",NA,"US","AMR","1943",1943,"Yes",8,"0.08",14811,1196,NA,"Moore & Larsen 1957",NA,NA,16007
+"217","United States",NA,"US","AMR","1944",1944,"Yes",8,"0.08",14150,1145,NA,"Moore & Larsen 1957",NA,NA,15295
+"218","United States",NA,"US","AMR","1945",1945,"Yes",9,"0.09",18689,1598,NA,"Moore & Larsen 1957",NA,NA,20287
+"219","United States",NA,"US","AMR","1946",1946,"Yes",8,"0.08",16354,1259,NA,"Moore & Larsen 1957",NA,NA,17613
+"220","United States",NA,"US","AMR","1947",1947,"Yes",6,"0.06",12405,799,NA,"Moore & Larsen 1957",NA,NA,13204
+"221","United States",NA,"US","AMR","1948",1948,"Yes",7,"0.07",9610,634,NA,"Moore & Larsen 1957",NA,NA,10244
+"222","United States",NA,"US","AMR","1949",1949,"Yes",7,"0.07",8027,574,NA,"Moore & Larsen 1957",NA,NA,8601
+"223","United States",NA,"US","AMR","1950",1950,"Yes",7,"0.07",5931,410,NA,"Moore & Larsen 1957",NA,NA,6341
+"224","United States",NA,"US","AMR","1951",1951,"Yes",8,"0.08",3983,302,NA,"Moore & Larsen 1957",NA,NA,4285
+"225","United States",NA,"US","AMR","1952",1952,"Yes",7,"0.07",2960,217,NA,"Moore & Larsen 1957",NA,NA,3177
+"226","United States",NA,"US","AMR","1953",1953,"Yes",7,"0.07",2355,156,NA,"Moore & Larsen 1957",NA,NA,2511
+"227","United States",NA,"US","AMR","1954",1954,"Yes",0,"0.00",2041,0,NA,"Moore & Larsen 1957",NA,NA,2041
+"228","US",NA,"US","AMR","1959-1970",1964,"Yes",19,"0.05",7356,373,NA,"Munford et al. 1974",NA,NA,7729
+"229","Uzbekistan",NA,"Uzbekistan","NIS","1990-1996",1993,"yes",12,"0.12",1227,142,NA,NA,NA,NA,1369
+"230","Vladmir Oblast",NA,"Russia Federation","NIS",NA,1994,"Yes",3,"0.03",851,26,NA,"Vitek et al 1998",NA,NA,877
+"231","Voronezh oblast",NA,"Russia Federation","NIS","1994",1994,"Yes",3,"0.03",954,30,NA,"Vitek et al 1998",NA,NA,984
+"232","Washington, DC",NA,"US","AMR","1896-1905",1900,"Yes",15,"0.15",6212,931,NA,"Crum 1917",NA,NA,7143
+"233","Washington, DC",NA,"US","AMR","1906-1915",1910,"Yes",6,"0.06",4789,274,NA,"Crum 1917",NA,NA,5063
+"234","Yemen",NA,"Yemen","EMR","1981-1982",1981,"Yes",14,"0.14",NA,NA,NA,"Markina et al 2000",NA,NA,NA
+"236","Lesotho",NA,"Lesotho","AFR","1989",1989,"NO",24,"0.24",68,16,NA,"Geldermalsen 2016",NA,NA,84
+"237","Jiangling, China",NA,"China","SEAR","1988",1988,"Yes",2,"0.02",103,2,NA,"Youwang 1992",NA,NA,105
+"238","Thailand",NA,"Thailand","SEAR","1980-1989",1985,"YES",7,"0.07",8129,548,NA,"Tharmaphornpilas 2001",NA,NA,8677
+"239","Thailand",NA,"Thailand","SEAR","1990-1999",1995,"YES",20,"0.20",425,83,NA,"Tharmaphornpilas 2001",NA,NA,508
+"240","Utah, US",NA,"US","AMR","1937",1937,"YES",2,"0.02",305,7,NA,"Jenkins 1948",NA,NA,312
+"241","Utah, US",NA,"US","AMR","1938",1938,"YES",6,"0.06",101,6,NA,"Jenkins 1948",NA,NA,107
+"242","Utah, US",NA,"US","AMR","1939",1939,"YES",17,"0.17",30,5,NA,"Jenkins 1948",NA,NA,35
+"243","Utah, US",NA,"US","AMR","1940",1940,"YES",0,"0.00",26,0,NA,"Jenkins 1948",NA,NA,26
+"244","Utah, US",NA,"US","AMR","1941",1941,"YES",3,"0.03",35,1,NA,"Jenkins 1948",NA,NA,36
+"245","Utah, US",NA,"US","AMR","1942",1942,"YES",23,"0.23",13,3,NA,"Jenkins 1948",NA,NA,16
+"246","Utah, US",NA,"US","AMR","1943",1943,"YES",0,"0.00",14,0,NA,"Jenkins 1948",NA,NA,14
+"247","Utah, US",NA,"US","AMR","1944",1944,"YES",0,"0.00",0,0,NA,"Jenkins 1948",NA,NA,0
+"248","Utah, US",NA,"US","AMR","1945",1945,"YES",0,"0.00",17,0,NA,"Jenkins 1948",NA,NA,17
+"249","Utah, US",NA,"US","AMR","1946",1946,"YES",19,"0.19",16,3,NA,"Jenkins 1948",NA,NA,19
+"250","Utah, US",NA,"US","AMR","1947",1947,"YES",9,"0.09",117,11,NA,"Jenkins 1948",NA,NA,128
+"251","Chicago",NA,"US","AMR","1960-1970",1965,"YES",16,"0.16",81,13,NA,"Nelson 1971",225,NA,94
+"252","Eastern Hospital",NA,"England","EUR","1893",1893,"NO",42,"0.42",397,166,NA,"Washbourn, Goodall, and Card 1894",35,NA,563
+"253","Eastern Hospital",NA,"England","EUR","1894",1894,"NO",36,"0.36",400,144,NA,"Washbourn, Goodall, and Card 1894",35,NA,544
+"254","Eastern Hospital",NA,"England","EUR","1894",1894,"NO",39,"0.39",72,28,NA,"Washbourn, Goodall, and Card 1894",35,NA,100
+"255","Eastern Hospital",NA,"England","EUR","1894",1894,"YES",19,"0.19",72,14,NA,"Washbourn, Goodall, and Card 1894",35,NA,86
+"256","Mangotsfield",NA,"England","EUR","1929",1929,"YES",25,"0.25",40,10,NA,"Aubrey & Britton, 1929",55,NA,50
+"257","Colchester, Hospital for mentally subnormal",NA,"England","EUR","1970",1970,"YES",50,"0.50",8,4,NA,"Anderson & Penfold",67,NA,12
+"258","Colchester, Hospital for mentally subnormal",NA,"England","EUR","1970",1970,"YES",10,"0.10",10,1,NA,"Anderson & Penfold",67,NA,11
+"259","Arkhangelsk, Russia",NA,"Russia","NIS","1994-1995",1995,"YES",4,"0.04",27,1,NA,"Danilov 2006",89,NA,28
+"260","Goteborg, Sweden",NA,"Sweden","EUR","1984",1984,"YES",30,"0.30",10,3,NA,"Bjorkholm 1987",62,NA,13
+"261","Goteborg, Sweden",NA,"Sweden","EUR","1985",1985,"YES",0,"0.00",3,0,NA,"Bjorkholm 1987",62,NA,3
+"262","Russia","Outbreak","Russia","NIS","1994",1994,"YES",3,"0.03",39907,1104,NA,"Hardy 1997",146,NA,41011
+"263","Armenia","Outbreak","Armenia","NIS","1994",1994,"YES",6,"0.06",36,2,NA,"Hardy 1997",146,NA,38
+"264","Azerbaijan","Outbreak","Azerbaijan","NIS","1994",1994,"YES",18,"0.18",685,120,NA,"Hardy 1997",146,NA,805
+"265","Belarus","Outbreak","Belarus","NIS","1994",1994,"YES",3,"0.03",236,8,NA,"Hardy 1997",146,NA,244
+"266","Estonia","Outbreak","Estonia","NIS","1994",1994,"YES",0,"0.00",7,0,NA,"Hardy 1997",146,NA,7
+"267","Georgia","Outbreak","Georgia","NIS","1994",1994,"YES",14,"0.14",294,42,NA,"Hardy 1997",146,NA,336
+"268","Kazakhstan","Outbreak","Kazakhstan","NIS","1994",1994,"YES",5,"0.05",489,26,NA,"Hardy 1997",146,NA,515
+"269","Kyrgystan","Outbreak","Kyrgystan","NIS","1994",1994,"YES",4,"0.04",303,11,NA,"Hardy 1997",146,NA,314
+"270","Latvia","Outbreak","Latvia","NIS","1994",1994,"YES",10,"0.10",250,24,NA,"Hardy 1997",146,NA,274
+"271","Lithuania","Outbreak","Lithuania","NIS","1994",1994,"YES",23,"0.23",39,9,NA,"Hardy 1997",146,NA,48
+"272","Maldova","Outbreak","Maldova","NIS","1994",1994,"YES",5,"0.05",372,19,NA,"Hardy 1997",146,NA,391
+"273","Turkmenistan","Outbreak","Turkmenistan","NIS","1994",1994,"YES",23,"0.23",61,14,NA,"Hardy 1997",146,NA,75
+"274","Ukraine","Outbreak","Ukraine","NIS","1994",1994,"YES",4,"0.04",2990,111,NA,"Hardy 1997",146,NA,3101
+"275","Uzbekistan","Outbreak","Uzbekistan","NIS","1994",1994,"YES",16,"0.16",232,37,NA,"Hardy 1997",146,NA,269
+"276","Lisbon, Portugal",NA,"Portugal","EUR","1976",1976,"YES",8,"0.08",500,40,NA,"Kwantes 1984",229,NA,540
+"277","Switzerland",NA,"Switzerland","EUR","1974",1974,"YES",0,"0.00",400,0,NA,"Kwantes 1984",229,NA,400
+"278","Germany",NA,"Germany","EUR","1982",1982,"YES",31,"0.31",16,5,NA,"Kwantes 1984",229,NA,21
+"279","Dominican Republic",NA,"Dominican Republic","AMR","2003",2003,"YES",33,"0.33",80,26,NA,"Garib 2015",244,NA,106
+"280","Ukraine",NA,"Ukraine","NIS","1960",1960,"YES",0,"0.00",2221,0,NA,NA,378,NA,2221
+"281","Ukraine",NA,"Ukraine","NIS","1961",1961,"YES",0,"0.00",1207,0,NA,NA,378,NA,1207
+"282","Ukraine",NA,"Ukraine","NIS","1962",1962,"YES",0,"0.00",590,0,NA,NA,378,NA,590
+"283","Ukraine",NA,"Ukraine","NIS","1963",1963,"YES",0,"0.00",419,0,NA,NA,378,NA,419
+"284","Ukraine",NA,"Ukraine","NIS","1964",1964,"YES",0,"0.00",282,0,NA,NA,378,NA,282
+"285","Ukraine",NA,"Ukraine","NIS","1965",1965,"YES",0,"0.00",123,0,NA,NA,378,NA,123
+"286","Ukraine",NA,"Ukraine","NIS","1966",1966,"YES",0,"0.00",175,0,NA,NA,378,NA,175
+"287","Ukraine",NA,"Ukraine","NIS","1967",1967,"YES",0,"0.00",83,0,NA,NA,378,NA,83
+"288","Ukraine",NA,"Ukraine","NIS","1968",1968,"YES",0,"0.00",105,0,NA,NA,378,NA,105
+"289","Ukraine",NA,"Ukraine","NIS","1969",1969,"YES",0,"0.00",130,0,NA,NA,378,NA,130
+"290","Ukraine",NA,"Ukraine","NIS","1970",1970,"YES",6,"0.06",31,2,NA,NA,378,NA,33
+"291","Ukraine",NA,"Ukraine","NIS","1971",1971,"YES",17,"0.17",24,4,NA,NA,378,NA,28
+"292","Ukraine",NA,"Ukraine","NIS","1972",1972,"YES",19,"0.19",26,5,NA,NA,378,NA,31
+"293","Ukraine",NA,"Ukraine","NIS","1973",1973,"YES",10,"0.10",20,2,NA,NA,378,NA,22
+"294","Ukraine",NA,"Ukraine","NIS","1974",1974,"YES",0,"0.00",13,0,NA,NA,378,NA,13
+"295","Ukraine",NA,"Ukraine","NIS","1975",1975,"YES",22,"0.22",9,2,NA,NA,378,NA,11
+"296","Ukraine",NA,"Ukraine","NIS","1976",1976,"YES",38,"0.38",8,3,NA,NA,378,NA,11
+"297","Ukraine",NA,"Ukraine","NIS","1977",1977,"YES",25,"0.25",32,8,NA,NA,378,NA,40
+"298","Ukraine",NA,"Ukraine","NIS","1978",1978,"YES",5,"0.05",20,1,NA,NA,378,NA,21
+"299","Ukraine",NA,"Ukraine","NIS","1979",1979,"YES",19,"0.19",21,4,NA,NA,378,NA,25
+"300","Ukraine",NA,"Ukraine","NIS","1980",1980,"YES",15,"0.15",26,4,NA,NA,378,NA,30
+"301","Ukraine",NA,"Ukraine","NIS","1981",1981,"YES",10,"0.10",31,3,NA,NA,378,NA,34
+"302","Ukraine",NA,"Ukraine","NIS","1982",1982,"YES",5,"0.05",43,2,NA,NA,378,NA,45
+"303","Ukraine",NA,"Ukraine","NIS","1983",1983,"YES",8,"0.08",53,4,NA,NA,378,NA,57
+"304","Ukraine",NA,"Ukraine","NIS","1984",1984,"YES",10,"0.10",62,6,NA,NA,378,NA,68
+"305","Ukraine",NA,"Ukraine","NIS","1985",1985,"YES",11,"0.11",75,8,NA,NA,378,NA,83
+"306","Ukraine",NA,"Ukraine","NIS","1986",1986,"YES",3,"0.03",97,3,NA,NA,378,NA,100
+"307","Ukraine",NA,"Ukraine","NIS","1987",1987,"YES",9,"0.09",92,8,NA,NA,378,NA,100
+"308","Ukraine",NA,"Ukraine","NIS","1983",1983,"YES",9,"0.09",81,7,NA,NA,378,NA,88
+"309","Ukraine",NA,"Ukraine","NIS","1989",1989,"YES",19,"0.19",59,11,NA,NA,378,NA,70
+"310","Ukraine",NA,"Ukraine","NIS","1990",1990,"YES",9,"0.09",109,10,NA,NA,378,NA,119
+"311","Ukraine",NA,"Ukraine","NIS","1991",1991,"YES",5,"0.05",1103,50,NA,NA,378,NA,1153
+"312","Ukraine",NA,"Ukraine","NIS","1992",1992,"YES",4,"0.04",1553,68,NA,NA,378,NA,1621
+"313","Ukraine",NA,"Ukraine","NIS","1993",1993,"YES",3,"0.03",2987,78,NA,NA,378,NA,3065
+"314","Belarus",NA,"Belarus","NIS","1980",1980,"YES",0,"0.00",2,0,NA,NA,379,NA,2
+"315","Belarus",NA,"Belarus","NIS","1981",1981,"YES",0,"0.00",0,0,NA,NA,379,NA,0
+"316","Belarus",NA,"Belarus","NIS","1982",1982,"YES",14,"0.14",7,1,NA,NA,379,NA,8
+"317","Belarus",NA,"Belarus","NIS","1983",1983,"YES",0,"0.00",8,0,NA,NA,379,NA,8
+"318","Belarus",NA,"Belarus","NIS","1984",1984,"YES",14,"0.14",21,3,NA,NA,379,NA,24
+"319","Belarus",NA,"Belarus","NIS","1985",1985,"YES",0,"0.00",18,0,NA,NA,379,NA,18
+"320","Belarus",NA,"Belarus","NIS","1986",1986,"YES",4,"0.04",23,1,NA,NA,379,NA,24
+"321","Belarus",NA,"Belarus","NIS","1987",1987,"YES",6,"0.06",34,2,NA,NA,379,NA,36
+"322","Belarus",NA,"Belarus","NIS","1988",1988,"YES",17,"0.17",12,2,NA,NA,379,NA,14
+"323","Belarus",NA,"Belarus","NIS","1989",1989,"YES",0,"0.00",15,0,NA,NA,379,NA,15
+"324","Belarus",NA,"Belarus","NIS","1990",1990,"YES",0,"0.00",22,0,NA,NA,379,NA,22
+"325","Belarus",NA,"Belarus","NIS","1991",1991,"YES",4,"0.04",26,1,NA,NA,379,NA,27
+"326","Belarus",NA,"Belarus","NIS","1992",1992,"YES",2,"0.02",66,1,NA,NA,379,NA,67
+"327","Belarus",NA,"Belarus","NIS","1993",1993,"YES",1,"0.01",120,1,NA,NA,379,NA,121
+"328","Oklahoma, USA",NA,"USA","AMR","1963",1963,"YES",7,"0.07",15,1,NA,"Howard 1966",70,NA,16
+"329","Motherwell & Wishaw",NA,"Scotland","EUR","1968",1968,"YES",33,"0.33",6,2,NA,"Young 1969",72,NA,8
+"330","USA",NA,"USA","AMR","1940",1940,"YES",9,"0.09",15536,1457,NA,NA,394,NA,16993
+"331","USA",NA,"USA","AMR","1950",1950,"YES",7,"0.07",5796,410,NA,NA,394,NA,6206
+"332","USA",NA,"USA","AMR","1960",1960,"YES",8,"0.08",918,69,NA,NA,394,NA,987
+"333","USA",NA,"USA","AMR","1965",1965,"YES",11,"0.11",164,18,NA,NA,394,NA,182
+"334","USA",NA,"USA","AMR","1966",1966,"YES",10,"0.10",209,20,NA,NA,394,NA,229
+"335","USA",NA,"USA","AMR","1967",1967,"YES",11,"0.11",219,25,NA,NA,394,NA,244
+"336","Cambridge & Charleston, England",NA,"England","EUR","1900",1900,"YES",7,"0.07",67,5,NA,"Cobbett 1901",61,NA,72
+"337","Medford, OR",NA,"USA","AMR","1949",1949,"YES",23,"0.23",22,5,NA,"EMRkel 1951",71,NA,27
+"338","Finland",NA,"Finland","EUR","2001",2001,"YES",50,"0.50",2,1,NA,"Wagner 2012",252,NA,3
+"339","France",NA,"France","EUR","2007",2007,"YES",100,"1.00",1,1,NA,"Wagner 2012",252,NA,2
+"340","Latvia",NA,"Latvia","NIS","2000",2000,"YES",3,"0.03",352,9,NA,"Wagner 2012",252,NA,361
+"341","Latvia",NA,"Latvia","NIS","2001",2001,"YES",4,"0.04",115,5,NA,"Wagner 2012",252,NA,120
+"342","Latvia",NA,"Latvia","NIS","2002",2002,"YES",5,"0.05",60,3,NA,"Wagner 2012",252,NA,63
+"343","Latvia",NA,"Latvia","NIS","2003",2003,"YES",4,"0.04",48,2,NA,"Wagner 2012",252,NA,50
+"344","Latvia",NA,"Latvia","NIS","2004",2004,"YES",5,"0.05",22,1,NA,"Wagner 2012",252,NA,23
+"345","Latvia",NA,"Latvia","NIS","2005",2005,"YES",9,"0.09",22,2,NA,"Wagner 2012",252,NA,24
+"346","Latvia",NA,"Latvia","NIS","2006",2006,"YES",14,"0.14",43,6,NA,"Wagner 2012",252,NA,49
+"347","Latvia",NA,"Latvia","NIS","2007",2007,"YES",4,"0.04",23,1,NA,"Wagner 2012",252,NA,24
+"348","Latvia",NA,"Latvia","NIS","2008",2008,"YES",5,"0.05",41,2,NA,"Wagner 2012",252,NA,43
+"349","Latvia",NA,"Latvia","NIS","2009",2009,"YES",11,"0.11",9,1,NA,"Wagner 2012",252,NA,10
+"350","Lithuania",NA,"Lithuania","NIS","2002",2002,"YES",20,"0.20",5,1,NA,"Wagner 2012",252,NA,6
+"351","Lithuania",NA,"Lithuania","NIS","2008",2008,"YES",25,"0.25",4,1,NA,"Wagner 2012",252,NA,5
+"352","Turkey",NA,"Turkey","EMR","2000",2000,"YES",25,"0.25",4,1,NA,"Wagner 2012",252,NA,5
+"353","Turkey",NA,"Turkey","EMR","2001",2001,"YES",43,"0.43",7,3,NA,"Wagner 2012",252,NA,10
+"354","Turkey",NA,"Turkey","EMR","2002",2002,"YES",100,"1.00",1,1,NA,"Wagner 2012",252,NA,2
+"355","Germany",NA,"Germany","EUR","2001",2001,"YES",100,"1.00",1,1,NA,"Wagner 2012",252,NA,2
+"356","United Kingdom",NA,"United Kingdom","EUR","2000",2000,"YES",14,"0.14",7,1,NA,"Wagner 2012",252,NA,8
+"357","United Kingdom",NA,"United Kingdom","EUR","2001",2001,"YES",0,"0.00",3,0,NA,"Wagner 2012",252,NA,3
+"358","United Kingdom",NA,"United Kingdom","EUR","2002",2002,"YES",0,"0.00",2,0,NA,"Wagner 2012",252,NA,2
+"359","United Kingdom",NA,"United Kingdom","EUR","2003",2003,"YES",0,"0.00",2,0,NA,"Wagner 2012",252,NA,2
+"360","United Kingdom",NA,"United Kingdom","EUR","2004",2004,"YES",0,"0.00",1,0,NA,"Wagner 2012",252,NA,1
+"361","United Kingdom",NA,"United Kingdom","EUR","2005",2005,"YES",0,"0.00",2,0,NA,"Wagner 2012",252,NA,2
+"362","United Kingdom",NA,"United Kingdom","EUR","2006",2006,"YES",50,"0.50",2,1,NA,"Wagner 2012",252,NA,3
+"363","United Kingdom",NA,"United Kingdom","EUR","2007",2007,"YES",0,"0.00",3,0,NA,"Wagner 2012",252,NA,3
+"364","United Kingdom",NA,"United Kingdom","EUR","2008",2008,"YES",0,"0.00",3,0,NA,"Wagner 2012",252,NA,3
+"365","United Kingdom",NA,"United Kingdom","EUR","2009",2009,"YES",0,"0.00",2,0,NA,"Wagner 2012",252,NA,2
+"366","Essex, UK",NA,"England","EUR","1958",1958,"YES",8,"0.08",12,1,NA,"Kehr 1960",507,NA,13
+"367","Plainview, TX",NA,"USA","AMR","1960",1960,"YES",2,"0.02",56,1,NA,"Doege 1963",12,NA,57
+"368","United Kingdom",NA,"England","EUR","1946",1946,"YES",9,"0.09",11,1,NA,"Webb JW 1947",389,NA,12
+"369","Lao",NA,"Lao","SEAR","2012",2012,"NO",19,"0.19",62,12,NA,"Sein 2016",270,"0.67",74
+"370","Coseley, England",NA,"England","EUR","1951",1951,"YES",3,"0.03",186,6,NA,"Lycett 1953",75,"0.73",192
+"371","Souix City, IA",NA,"USA","AMR","1962",1962,"YES",6,"0.06",18,1,NA,"Corothers 1966",74,"0.91",19
+"372","KwaZula-Natal, South Africa",NA,"South Africa","AFR","2015",2015,"YES",27,"0.27",15,4,NA,"Mahomed 2017",60,"Low",19
+"373","Calcutta, India",NA,"India","SEAR","1977",1977,"YES",0,"0.00",6,0,NA,"Kumar 1979",525,NA,6
+"374","Minnesota School for the Feeble Minded, Faribault, MN",NA,"USA","AMR","1945",1945,"YES",9,"0.09",11,1,NA,"Engberg 1947",563,"high",12
+"375","Rural India",NA,"India","SEAR","1970-72",1971,"YES",25.8,"25.8",62,16,NA,"MOHANTA AND PARIJA 1974",497,NA,78
+"376","Urban India",NA,"India","SEAR","1970-72",1971,"YES",20.8,"20.8",24,5,NA,"MOHANTA AND PARIJA 1974",497,NA,29
+"377","Willard Parker Hospital of New York",NA,"USA","AMR","1895",1895,"YES",26,"0.26",593,155,NA,"BRANNAN 1896",506,NA,748
+"378","Willard Parker Hospital of New York",NA,"USA","AMR","1894",1894,"NO",35,"0.35",469,165,NA,"BRANNAN 1896",506,NA,634
+"379","Jakarta, Indonesia",NA,"Indonesia","SEAR","1965-1967",1966,NA,26,"0.26",396,103,NA,"Aminullah et al. 1968",2,NA,499
+"380","AjEMR, India",NA,"India","SEAR","1961-1970",1965,NA,14,"0.14",347,49,NA,"Mathur 1973",31,NA,396
+"381","Allahabad, India",NA,"India","SEAR","1969",1969,NA,31,"0.31",120,37,NA,"Kumar 1971",121,NA,157
+"382","Keighley, UK - TOTAL",NA,"UK","EUR","1898",1898,"YES",23,"0.23",553,129,NA,"Scatterly 1903",655,NA,682
+"383","Keighley, UK, Hospitalized",NA,"UK","EUR","1898",1898,"Yes",14,"0.14",221,32,NA,"Scatterly 1903",655,NA,253
+"384","Keighley, UK, Home",NA,"UK","EUR","1898",1898,"No",28,"0.28",332,94,NA,"Scatterly 1903",655,NA,426
+"385","Isleworth, England",NA,"UK","EUR","1906-1907",1907,"YES",3,"0.03",74,2,NA,"Norton 1907",690,NA,76
+"386","Alaska",NA,"USA","AMR","1952",1952,"Yes",8,"0.08",100,8,NA,"Alder",268,NA,108
+"387","Augusta, Main",NA,"USA","AMR","1893",1893,NA,14,"0.14",14,2,NA,"Castellanos 1967",267,NA,16
+"388","England",NA,"England","EUR","1975",1975,"Yes",50,"0.50",2,1,NA,"Jones 1984",398,NA,3
+"389","Omaha & Douglas County","NO","USA","AMR","1890-1899",1895,"No",32,"0.32",2260,732,NA,"Lyman 1956",719,NA,2992
+"390","Omaha & Douglas County","NO","USA","AMR","1900-1909",1905,"Yes",13,"0.13",1377,175,NA,"Lyman 1956",719,NA,1552
+"391","Omaha & Douglas County","NO","USA","AMR","1910-1919",1915,"Yes",13,"0.13",2622,332,NA,"Lyman 1956",719,NA,2954
+"392","Omaha & Douglas County","NO","USA","AMR","1920-1929",1925,"Yes",9,"0.09",3430,305,NA,"Lyman 1956",719,NA,3735
+"393","Omaha & Douglas County","NO","USA","AMR","1930-1939",1935,"Yes",5,"0.05",1559,71,NA,"Lyman 1956",719,NA,1630
+"394","Omaha & Douglas County","NO","USA","AMR","1940-1949",1945,"Yes",5,"0.05",312,16,NA,"Lyman 1956",719,NA,328
+"395","Omaha & Douglas County","NO","USA","AMR","1950-1955",1955,"Yes",8,"0.08",206,16,NA,"Lyman 1956",719,NA,222
+"396","Omaha & Douglas County","YES","USA","AMR","1954",1954,"Yes",5,"0.05",37,2,NA,"Lyman 1956",719,NA,39
+"397","Omaha & Douglas County","YES","USA","AMR","1955",1955,"Yes",10,"0.10",31,3,NA,"Lyman 1956",719,NA,34
+"398","Coppenhagen","YES","Denmark","EUR","1943-1944",1943,"Yes",9,"0.09",403,36,NA,"Ammundsen 1947",720,NA,439
+"399","Edinburgh","YES","Scotland","EUR","1860",1860,"No",18,"0.18",51,9,NA,"Crighton 1860",733,NA,60
+"400","England","YES","England","EUR","2008",2008,"Yes",50,"0.50",2,1,NA,"Both 2015",753,NA,3
+"401","England","YES","England","EUR","2009",2009,"Yes",0,"0.00",2,0,NA,"Both 2015",753,NA,2
+"402","England","YES","England","EUR","2010",2010,"Yes",0,"0.00",1,0,NA,"Both 2015",753,NA,1
+"403","England","YES","England","EUR","2013",2013,"Yes",0,"0.00",3,0,NA,"Both 2015",753,NA,3
+"404","Dorsetshire, England","YES","England","EUR","1890",1890,"No",11,"0.11",100,11,2300,"Lys 1890",54,"0",111
+"405","Kyrgyz Republic","YES","Kyrgyz Republic","NIS","1995",1995,"Yes",3,"0.03",676,19,NA,"Kadirova 2000",120,NA,695
+"406","Matatiele, South Africa","YES","South Africa","AFR","1948",1948,"Yes",17,"0.17",146,25,NA,"TURNBULL 1949",223,NA,171
+"407","Tsolo, South Africa","YES","South Africa","AFR","1948",1948,"Yes",18,"0.18",84,15,NA,"TURNBULL 1949",223,NA,99
+"408","Hospital for Sick Kids, Toronto","YES","Canada","AMR","1902",1902,"Yes",2,"0.02",42,1,NA,"Dawson 1903",707,NA,43
+"409","Amsterdam","Yes","Netherlands","EUR","1930",1930,"Yes",2,"0.02",642,11,NA,"Ruys 1949",657,NA,653
+"410","Amsterdam","Yes","Netherlands","EUR","1931",1931,"Yes",3,"0.03",482,14,NA,"Ruys 1949",657,NA,496
+"411","Amsterdam","Yes","Netherlands","EUR","1932",1932,"Yes",3,"0.027",617,17,NA,"Ruys 1949",657,NA,634
+"412","Amsterdam","Yes","Netherlands","EUR","1933",1933,"Yes",2,"0.02",588,12,NA,"Ruys 1949",657,NA,600
+"413","Amsterdam","Yes","Netherlands","EUR","1934",1934,"Yes",2,"0.02",342,8,NA,"Ruys 1949",657,NA,350
+"414","Amsterdam","Yes","Netherlands","EUR","1935",1935,"Yes",3,"0.03",132,4,NA,"Ruys 1949",657,NA,136
+"415","Amsterdam","Yes","Netherlands","EUR","1936",1936,"Yes",4,"0.04",83,3,NA,"Ruys 1949",657,NA,86
+"416","Amsterdam","Yes","Netherlands","EUR","1937",1937,"Yes",3,"0.03",66,2,NA,"Ruys 1949",657,NA,68
+"417","Amsterdam","Yes","Netherlands","EUR","1938",1938,"Yes",6,"0.06",128,8,NA,"Ruys 1949",657,NA,136
+"418","Amsterdam","Yes","Netherlands","EUR","1939",1939,"Yes",1,"0.01",79,1,NA,"Ruys 1949",657,NA,80
+"419","Amsterdam","Yes","Netherlands","EUR","1940",1940,"Yes",4,"0.04",99,4,NA,"Ruys 1949",657,NA,103
+"420","Amsterdam","Yes","Netherlands","EUR","1941",1941,"Yes",4,"0.04",169,6,NA,"Ruys 1949",657,NA,175
+"421","Amsterdam","Yes","Netherlands","EUR","1942",1942,"Yes",5,"0.05",1367,67,NA,"Ruys 1949",657,NA,1434
+"422","Amsterdam","Yes","Netherlands","EUR","1943",1943,"Yes",4,"0.04",7687,269,NA,"Ruys 1949",657,NA,7956
+"423","Amsterdam","Yes","Netherlands","EUR","1944",1944,"Yes",2,"0.02",7932,182,NA,"Ruys 1949",657,NA,8114
+"424","Amsterdam","Yes","Netherlands","EUR","1945",1945,"Yes",4,"0.04",5588,196,NA,"Ruys 1949",657,NA,5784
+"425","Amsterdam","Yes","Netherlands","EUR","1946",1946,"Yes",3,"0.03",3823,122,NA,"Ruys 1949",657,NA,3945
+"426","Amsterdam","Yes","Netherlands","EUR","1947",1947,"Yes",5,"0.05",1265,63,NA,"Ruys 1949",657,NA,1328
+"427","Cali, Colombia","Yes","Colombia","AMR","2000",2000,NA,13,"0.13",8,1,NA,"EpiBull 2001",269,NA,9
+"428","Northhamptonshire, England","Yes","England","EUR","1890",1890,"No",15,"0.15",134,20,485,"Bruce Low 1890",320,NA,154
+"429","Essex, UK","Yes","England","EUR","1875",1875,"No",15,"0.15",170,25,3300,"Dr. Thorne 1875",321,NA,195
+"430","Athens, Greece","Yes","Greece","EUR","1922",1922,"Yes",0,"0.00",5,0,NA,"Choremis 1947",347,NA,5
+"431","Athens, Greece","Yes","Greece","EUR","1923",1923,"Yes",31,"0.31",16,5,NA,"Choremis 1947",347,NA,21
+"432","Athens, Greece","Yes","Greece","EUR","1924",1924,"Yes",50,"0.50",8,4,NA,"Choremis 1947",347,NA,12
+"433","Athens, Greece","Yes","Greece","EUR","1925",1925,"Yes",15,"0.15",13,2,NA,"Choremis 1947",347,NA,15
+"434","Athens, Greece","Yes","Greece","EUR","1926",1926,"Yes",42,"0.42",19,8,NA,"Choremis 1947",347,NA,27
+"435","Athens, Greece","Yes","Greece","EUR","1927",1927,"Yes",9,"0.09",45,4,NA,"Choremis 1947",347,NA,49
+"436","Athens, Greece","Yes","Greece","EUR","1928",1928,"Yes",3,"0.03",39,1,NA,"Choremis 1947",347,NA,40
+"437","Athens, Greece","Yes","Greece","EUR","1929",1929,"Yes",14,"0.14",59,8,NA,"Choremis 1947",347,NA,67
+"438","Athens, Greece","Yes","Greece","EUR","1930",1930,"Yes",18,"0.18",72,13,NA,"Choremis 1947",347,NA,85
+"439","Athens, Greece","Yes","Greece","EUR","1931",1931,"Yes",12,"0.12",128,16,NA,"Choremis 1947",347,NA,144
+"440","Athens, Greece","Yes","Greece","EUR","1932",1932,"Yes",18,"0.18",142,25,NA,"Choremis 1947",347,NA,167

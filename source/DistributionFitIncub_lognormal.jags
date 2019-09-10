@@ -1,0 +1,25 @@
+model {
+
+    for(i in dic){
+        #set up the censoring interval for the time of symptom onset
+        #if IPisCensored is 1 then Y_S is between the limits
+        IPcensorLimitVec[i,1] <- max(0, (SL[i]-E[i]))
+        IPcensorLimitVec[i,2] <- max(0.00001, (SR[i]-E[i]))
+        IPisCensored[i] ~ dinterval(Y_S[i], IPcensorLimitVec[i,1:2] )
+
+        #declare the distribution of time of symptom onset and
+        Y_S[i] ~ dlnorm(lm, tau1)
+
+        #declare the distribution of time of exposure...assume EL[i]=0
+        E[i] ~ dunif(0, ER[i])
+    }
+
+    #priors and transformation for incubation period distribution
+    lm ~ dnorm(0.00001,10) #0.001
+    #lm ~ dnorm(0,10) #0.001
+
+    lsd ~ dunif(0,5) 
+    tau1 <- 1/lsd^2
+
+
+}

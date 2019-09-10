@@ -1,0 +1,23 @@
+model {
+  
+  for(i in CDic){
+    #set up the censoring interval for the time of seroconversion
+    #if CDisCensored is 1 then Y_V is between the limits
+    CDisCensored[i] ~ dinterval( Y_V[i] , CDcensorLimitVec[i,1:2])
+    CDcensorLimitVec[i,1]<-max(0.000000001,CL[i])
+    CDcensorLimitVec[i,2]<-max(0.000000001,CR[i])
+    
+    Y_V[i] ~ dweib(v_v,  lambda_v)
+    
+    #calculate the likelihoods:
+    loglik[i] <- log(exp(-lambda_v * (Y_V[i] ^ v_v)))
+    
+  }
+  
+
+  #priors and transformation for viral clearance distribution
+  v_v~dgamma(1,1)
+  lambda_v<-(1/scale_v)^(v_v)
+  scale_v~dunif(0,100)
+  
+}

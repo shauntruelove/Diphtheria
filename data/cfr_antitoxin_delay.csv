@@ -1,0 +1,64 @@
+"Location","Country","Region","Date","Mid.Date","Decade","Antitoxin","TimeToDAT","TimeMin","TimeMax","Cases","Deaths","CFR","CFR_CI","N.paralytic","Author.Year","Ref_index","Note"
+"Goteborg, Sweden","Sweden","EUR","1984-85",1984,1980,"Yes","2",2,2,2,0,0,"0-0",NA,"Bjorkholm 1987","62","Only severe cases received DAT"
+"Goteborg, Sweden","Sweden","EUR","1984-85",1984,1980,"Yes","3",3,3,4,1,0.25,"-0.174-0.674",NA,"Bjorkholm 1987","62","Only severe cases received DAT"
+"Goteborg, Sweden","Sweden","EUR","1984-85",1984,1980,"Yes","4",4,4,1,0,0,"0-0",NA,"Bjorkholm 1987","62","Only severe cases received DAT"
+"Goteborg, Sweden","Sweden","EUR","1984-85",1984,1980,"Yes","7",7,7,1,1,1,"1-1",NA,"Bjorkholm 1987","62","Only severe cases received DAT"
+"Goteborg, Sweden","Sweden","EUR","1984-85",1984,1980,"Yes","9",9,9,1,1,1,"1-1",NA,"Bjorkholm 1987","62","Only severe cases received DAT"
+"Dominican Republic","Dominican Republic","AMR","2003",2003,2000,"Yes","1",1,1,6,3,0.5,"0.1-0.9",NA,"Garib 2015","244","Inadequate vacc reported (don't know if 0,1, or 2 doses)"
+"Dominican Republic","Dominican Republic","AMR","2003",2003,2000,"Yes","2",2,2,18,7,0.389,"0.164-0.614",NA,"Garib 2015","244","Inadequate vacc reported (don't know if 0,1, or 2 doses)"
+"Dominican Republic","Dominican Republic","AMR","2003",2003,2000,"Yes","3+",3,10,31,8,0.258,"0.104-0.412",NA,"Garib 2015","244","Inadequate vacc reported (don't know if 0,1, or 2 doses)"
+"Amsterdam","Netherlands","EUR","1950",1950,1950,"Yes","1",1,1,183,0,0,"0-0",1,"Tasman & Lansberg 1957","771",NA
+"Amsterdam","Netherlands","EUR","1950",1950,1950,"Yes","2",2,2,905,14,0.015,"0.007-0.024",32,"Tasman & Lansberg 1957","771",NA
+"Amsterdam","Netherlands","EUR","1950",1950,1950,"Yes","3",3,3,632,28,0.044,"0.028-0.06",37,"Tasman & Lansberg 1957","771",NA
+"Amsterdam","Netherlands","EUR","1950",1950,1950,"Yes","4",4,4,436,30,0.069,"0.045-0.093",31,"Tasman & Lansberg 1957","771",NA
+"Eastern Hospital","UK","EUR","1895-1897",1896,1890,"Yes","1",1,1,69,0,0,"0-0",4,"Goodall 1899","NA1",NA
+"Eastern Hospital","UK","EUR","1895-1897",1896,1890,"Yes","2",2,2,277,0,0,"0-0",28,"Goodall 1899","NA1",NA
+"Eastern Hospital","UK","EUR","1895-1897",1896,1890,"Yes","3",3,3,340,3,0.009,"-0.001-0.019",53,"Goodall 1899","NA1",NA
+"Eastern Hospital","UK","EUR","1895-1897",1896,1890,"Yes","4",4,4,323,7,0.022,"0.006-0.038",61,"Goodall 1899","NA1",NA
+"Eastern Hospital","UK","EUR","1895-1897",1896,1890,"Yes","5+",5,10,571,8,0.014,"0.004-0.024",147,"Goodall 1899","NA1",NA
+"Philadelphia, PA","USA","AMR","1905-1909",1907,1900,"Yes","1",1,1,415,0,0,"0-0",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1905-1909",1907,1900,"Yes","2",2,2,2125,107,0.05,"0.041-0.06",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1905-1909",1907,1900,"Yes","3",3,3,1661,146,0.088,"0.074-0.102",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1905-1909",1907,1900,"Yes","4",4,4,999,124,0.124,"0.104-0.145",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1905-1909",1907,1900,"Yes","5",5,5,543,79,0.145,"0.116-0.175",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1905-1909",1907,1900,"Yes","6.0",6,6,381,52,0.136,"0.102-0.171",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1905-1909",1907,1900,"Yes","7+",7,10,637,91,0.143,"0.116-0.17",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1910-1914",1912,1910,"Yes","1",1,1,443,5,0.011,"0.001-0.021",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1910-1914",1912,1910,"Yes","2",2,2,2285,128,0.056,"0.047-0.065",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1910-1914",1912,1910,"Yes","3",3,3,2197,150,0.068,"0.058-0.079",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1910-1914",1912,1910,"Yes","4",4,4,1409,108,0.077,"0.063-0.091",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1910-1914",1912,1910,"Yes","5",5,5,673,62,0.092,"0.07-0.114",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1910-1914",1912,1910,"Yes","6.0",6,6,462,43,0.093,"0.067-0.12",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Philadelphia, PA","USA","AMR","1910-1914",1912,1910,"Yes","7+",7,10,595,68,0.114,"0.089-0.14",NA,"Crum 1917","772","Exclude cases dying within 24hr of treatment"
+"Georgia, USA","USA","AMR","1954",1954,1950,"Yes","0-2",0,2,21,0,0,"0-0",NA,"Moore 1958","544",NA
+"Georgia, USA","USA","AMR","1954",1954,1950,"Yes","3",3,3,14,2,0.143,"-0.04-0.326",NA,"Moore 1958","544",NA
+"Georgia, USA","USA","AMR","1954",1954,1950,"Yes","4",4,4,10,3,0.3,"0.016-0.584",NA,"Moore 1958","544",NA
+"Willard Parker Hospital of New York","USA","AMR","1895",1895,1890,"Yes","1",1,1,108,11,0.101,"0.044-0.158",NA,"BRANNAN 1896","506",NA
+"Willard Parker Hospital of New York","USA","AMR","1895",1895,1890,"Yes","2",2,2,130,33,0.252,"0.177-0.327",NA,"BRANNAN 1896","506",NA
+"Willard Parker Hospital of New York","USA","AMR","1895",1895,1890,"Yes","3",3,3,116,40,0.342,"0.256-0.428",NA,"BRANNAN 1896","506",NA
+"Willard Parker Hospital of New York","USA","AMR","1895",1895,1890,"Yes","4",4,4,87,28,0.318,"0.22-0.416",NA,"BRANNAN 1896","506",NA
+"Willard Parker Hospital of New York","USA","AMR","1895",1895,1890,"Yes","5+",5,10,152,56,0.366,"0.29-0.443",NA,"BRANNAN 1896","506",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","1",1,1,0,0,0,"0",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","2",2,2,5,2,0.416,"-0.015-0.848",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","3",3,3,10,1,0.116,"-0.082-0.314",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","4",4,4,3,2,0.687,"0.172-1.202",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","5",5,5,2,1,0.531,"-0.129-1.191",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","6",6,6,1,0,0,"0-0",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","7",7,7,0,0,0,"0",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","8",8,8,0,0,0,"0",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","9",9,9,0,0,0,"0",NA,"Khuri-Bulos 1980","233",NA
+"Jordan","Jordan","EMR","1977-1978",1977,1970,"Yes","10",10,10,1,0,0,"0-0",NA,"Khuri-Bulos 1980","233",NA
+"Delhi, India","India","SEAR","1997",1997,1990,"Yes","1",1,1,4,0,0,"0-0",NA,"Singh 1999","260",NA
+"Delhi, India","India","SEAR","1997",1997,1990,"Yes","2",2,2,18,2,0.111,"-0.034-0.256",NA,"Singh 1999","260",NA
+"Delhi, India","India","SEAR","1997",1997,1990,"Yes","=3",3,10,105,40,0.381,"0.288-0.474",NA,"Singh 1999","260",NA
+"Montreal","Canada","AMR","1896",1896,1890,"Yes","1",1,1,1374,67,0.049,NA,NA,NA,"635","No numbers given for individual groups, so assumed from totals."
+"Montreal","Canada","AMR","1896",1896,1890,"Yes","2",2,2,1373,102,0.074,NA,NA,NA,"635",NA
+"Montreal","Canada","AMR","1896",1896,1890,"Yes","3",3,3,1373,121,0.088,NA,NA,NA,"635",NA
+"Montreal","Canada","AMR","1896",1896,1890,"Yes","4",4,4,837,173,0.207,NA,NA,NA,"635",NA
+"Montreal","Canada","AMR","1896",1896,1890,"Yes","=5",5,10,837,295,0.353,NA,NA,NA,"635",NA
+"Toronto","Canada","AMR","1902",1902,1900,"Yes","1",1,1,8753.5,444,0.051,NA,NA,"Dawson 1903","707","No numbers given for individual groups, so assumed from totals."
+"Toronto","Canada","AMR","1902",1902,1900,"Yes","2",2,2,8753.5,743,0.085,NA,NA,"Dawson 1903","707",NA
+"Toronto","Canada","AMR","1902",1902,1900,"Yes","3",3,3,8753.5,1362,0.156,NA,NA,"Dawson 1903","707",NA
+"Toronto","Canada","AMR","1902",1902,1900,"Yes","4",4,4,8753.5,2045,0.234,NA,NA,"Dawson 1903","707",NA
+"Toronto","Canada","AMR","1902",1902,1900,"Yes","5",5,5,8753.5,2628,0.3,NA,NA,"Dawson 1903","707",NA
+"Toronto","Canada","AMR","1902",1902,1900,"Yes","=6",6,10,8753.5,2045,0.234,NA,NA,"Dawson 1903","707",NA

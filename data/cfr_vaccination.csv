@@ -1,0 +1,13 @@
+"Study","Location","Country","Ref_index","Region","Years","Year.Mid","Decade","N","Case.full","Case.partial","Case.none","Death.full","Death.partial","Death.none","CFR.non","CFR.partial","CFR.full"
+"Naiditch & Bower 1951","Los Angeles, USA","United States",NA,"AMR","1940-1950",1945,1940,803,104,147,552,3,11,54,0.098,0.075,0.029
+"Doege et al. 1962","United States","United States",NA,"AMR","1959-1960",1959,1950,56,6,8,42,0,0,1,0.024,0,0
+"Mckinnon et al. 1926","Toronto, Canada","Canada",NA,"AMR","1921",1921,1920,1692,120,0,1572,5,NA,118,0.075,NA,0.042
+"SINCLAIR et al 1971","Alabama, USA","United States",NA,"AMR","1967",1967,1960,19,2,6,11,0,0,5,0.455,0,0
+"Bjorkholm 1987","Goteborg, Sweden","Sweden",62,"EUR","1984-85",1984,1980,13,5,0,8,0,NA,3,0.375,NA,0
+"Howard 1966","Oklahoma","United States",70,"AMR","1963",1963,1960,13,0,3,10,0,0,1,0.1,0,NA
+"Santos et al. 2015","Maranhão, Brazil","Brazil",271,"AMR","2010",2010,2010,25,17,8,0,2,1,0,NA,0.125,0.118
+"Munford et al. 1974","United States","United States",197,"AMR","1959-1970",1964,1960,2547,266,572,1709,6,24,223,0.13,0.042,0.023
+"Vitek 1999","Russian Federation","Russia",360,"NIS","1990-1999",1995,1990,776,625,82,69,3,4,9,0.13,0.049,0.005
+"Kantsone et al. 2000","Latvia","Latvia",NA,"NIS","1994-2014",2004,2000,1515,1030,67,418,1,0,110,0.263,0,0.001
+"Khuri-Bulos 1980","Jordan University Hospital","Jordan",233,"EMR","1977-1978",1977,1970,21,3,7,11,1,0,6,0.546,0,0.327
+"Kembabanova 2000","Kazakhstan","Kazakhstan",346,"SEAR","1996",1996,1990,455,158,0,297,5,NA,26,0.088,NA,0.032

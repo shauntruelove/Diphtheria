@@ -1,0 +1,51 @@
+"Ref_index","Location","Country","Region","Decade","Year.Mid","Antitoxin","Cases","Deaths"
+"772","Boston, MA","US","AMR",1880,1887,"No",1423,609
+"772","Boston, MA","US","AMR",1890,1892,"No",2156,910
+"772","Boston, MA","US","AMR",1890,1897,"Yes",7156,947
+"772","Boston, MA","US","AMR",1900,1902,"Yes",8257,849
+"772","Boston, MA","US","AMR",1900,1907,"Yes",6935,520
+"772","Boston, MA","US","AMR",1910,1912,"Yes",6286,476
+"675","Colchester","UK","EUR",1900,1901,"No",81,21
+"675","Colchester","UK","EUR",1900,1901,"Yes",203,18
+"244","Dominican Republic","Dominican Republic","AMR",2000,2003,"Yes",68,19
+"244","Dominican Republic","Dominican Republic","AMR",2000,2003,"No",2,2
+"521","Eastern Hospital","UK","EUR",1890,1894,"No",452,4
+"521","Eastern Hospital","UK","EUR",1890,1896,"Yes",1580,18
+"507","Essex, England","England","EUR",1950,1958,"Yes",10,0
+"507","Essex, England","England","EUR",1950,1958,"No",2,1
+"UNK1","Indianapolis","US","AMR",1890,1896,"No",232,61
+"UNK1","Indianapolis","US","AMR",1890,1896,"Yes",202,27
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,"Yes",6,0
+"60","KwaZula-Natal, South Africa","South Africa","AFR",2010,2015,"No",9,4
+"772","London","England","EUR",1890,1892,"No",10777,3196
+"772","London","England","EUR",1890,1897,"Yes",29058,4928
+"772","London","England","EUR",1900,1902,"Yes",31774,3549
+"772","London","England","EUR",1900,1907,"Yes",24733,2275
+"772","London","England","EUR",1910,1912,"Yes",25179,1910
+"UNK1","Milwaukee","US","AMR",1890,1895,"Yes",433,117
+"UNK1","Milwaukee","US","AMR",1890,1893,"No",4565,1425
+"UNK1","Minneapolis","US","AMR",1890,1895,"Yes",131,11
+"UNK1","Minneapolis","US","AMR",1890,1894,"No",191,54
+"UNK2","Montreal","Canada","AMR",1890,1895,"Yes",NA,NA
+"UNK2","Montreal","Canada","AMR",1890,1894,"No",NA,NA
+"UNK3","New York","US","AMR",1890,1892,"No",20011,6936
+"UNK3","New York","US","AMR",1890,1895,"Yes",7921,1543
+"772","New York, NY","US","AMR",1880,1882,"No",16329,11332
+"772","New York, NY","US","AMR",1890,1890,"No",57120,24062
+"772","New York, NY","US","AMR",1900,1900,"Yes",98753,13486
+"772","New York, NY","US","AMR",1910,1910,"Yes",90284,9232
+"772","New York, NY","US","AMR",1910,1915,"Yes",9109,750
+"772","Newark, NJ","US","AMR",1890,1897,"No",2444,528
+"772","Newark, NJ","US","AMR",1900,1902,"No",1289,256
+"772","Newark, NJ","US","AMR",1900,1907,"No",622,144
+"772","Newark, NJ","US","AMR",1910,1912,"No",505,89
+"772","Newark, NJ","US","AMR",1910,1915,"No",22,4
+"772","Newark, NJ","US","AMR",1890,1897,"Yes",3296,357
+"772","Newark, NJ","US","AMR",1900,1902,"Yes",4970,365
+"772","Newark, NJ","US","AMR",1900,1907,"Yes",5348,331
+"772","Newark, NJ","US","AMR",1910,1912,"Yes",6409,379
+"772","Newark, NJ","US","AMR",1910,1915,"Yes",1085,48
+"521","St Louis","US","AMR",1890,1895,"No",12308,3677
+"521","St Louis","US","AMR",1890,1895,"Yes",2878,519
+"772","Washington, DC","US","AMR",1900,1900,"Yes",6212,931
+"772","Washington, DC","US","AMR",1910,1910,"Yes",4789,274

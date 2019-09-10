@@ -1,0 +1,46 @@
+"Study","Location","Year","Dose","Age.min","Age.max","Cases_total","Controls"
+"Bisgard2000","Russia",1993,"0",0,2,14,20
+"Bisgard2000","Russia",1993,"0",3,4,18,6
+"Bisgard2000","Russia",1993,"0",6,14,16,14
+"Bisgard2000","Russia",1993,"1",0,2,1,16
+"Bisgard2000","Russia",1993,"1",3,4,2,8
+"Bisgard2000","Russia",1993,"1",6,14,3,10
+"Bisgard2000","Russia",1993,"2",0,2,0,45
+"Bisgard2000","Russia",1993,"2",3,4,5,23
+"Bisgard2000","Russia",1993,"2",6,14,2,29
+"Bisgard2000","Russia",1993,"3",0,2,7,120
+"Bisgard2000","Russia",1993,"3",3,4,10,115
+"Bisgard2000","Russia",1993,"3",6,14,39,257
+"Bisgard2000","Russia",1993,"4",0,2,0,15
+"Bisgard2000","Russia",1993,"4",3,4,8,275
+"Bisgard2000","Russia",1993,"4",6,14,64,747
+"Bisgard2000","Russia",1993,"5",6,14,25,388
+"Bisgard2000","Russia",1993,"6",6,14,3,80
+"Miller1972","Elgin, TX",1970,"3",5,50,2,203
+"Miller1972","Elgin, TX",1970,"1-2",5,50,10,77
+"Miller1972","Elgin, TX",1970,"0",5,50,3,7
+"Marcuse 1973","San Antonio, TX",1970,"0",0,50,63,18
+"Marcuse 1973","San Antonio, TX",1970,"1-2",0,50,68,70
+"Marcuse 1973","San Antonio, TX",1970,"3",0,50,46,61
+"Murakami 2010","Viet Nam",1999,"0",1,32,7,9
+"Murakami 2010","Viet Nam",1999,"1",1,32,0,5
+"Murakami 2010","Viet Nam",1999,"2",1,32,3,12
+"Murakami 2010","Viet Nam",1999,"3",1,32,54,245
+"Murakami 2010","Viet Nam",1999,"4",1,32,23,79
+"Murakami 2010","Viet Nam",1999,"5",1,32,1,2
+"Brennan 2000","Russia",1995,"0",40,49,17,42
+"Brennan 2000","Russia",1995,"1",40,49,13,29
+"Brennan 2000","Russia",1995,"2",40,49,4,13
+"Brennan 2000","Russia",1995,"3+",40,49,5,33
+"Sein 2016","Lao",2012,"0",NA,NA,20,36
+"Sein 2016","Lao",2012,"1",NA,NA,4,14
+"Sein 2016","Lao",2012,"2",NA,NA,6,7
+"Sein 2016","Lao",2012,"3",NA,NA,5,20
+"Chen 2000","Ukraine",1992,"0",0,14,65,4
+"Chen 2000","Ukraine",1992,"1",0,14,12,7
+"Chen 2000","Ukraine",1992,"2",0,14,10,18
+"Chen 2000","Ukraine",1992,"3",0,14,29,54
+"Chen 2000","Ukraine",1992,"4",0,14,57,139
+"Chen 2000","Ukraine",1992,"5+",0,14,89,295
+"Meera 2014","India",2008,"0",NA,NA,412,1299
+"Meera 2014","India",2008,"3+",NA,NA,23,1171

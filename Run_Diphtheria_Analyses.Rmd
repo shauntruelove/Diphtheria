@@ -1,0 +1,195 @@
+---
+title: "Clinical and Epidemiological Aspects of Diphtheria: A Systematic Review and Pooled Analysis"
+author: Shaun A. Truelove, Lindsay T. Keegan, William J. Moss, Lelia H. Chaisson, Emilie Macher,
+  Andrew S. Azman, and Justin Lessler
+date: "8/8/2018"
+output: pdf_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Clinical Course and Natural History
+
+## Incubation period
+
+```{r incubation_pd,eval=FALSE}
+source('source/IncubPeriod_lognormal.R')
+```
+
+## Proportion asymptomatic
+
+Calculation of proportion asymptomatic among never vaccinated ($p_0$)
+
+```{r prop_asympt,eval=FALSE}
+source('source/Prop_Symptomatic_Calculation.R')
+```
+
+Calculation of proportion asymptomatic among vaccinated ($p_{1,2}$, $p_3$)
+
+```{r prop_asympt2,eval=FALSE}
+source('source/Run_R0stan.R')
+```
+
+## Duration of colonization
+
+Symptomatic cases and asymptomatic carriers
+
+```{r colonization, eval=FALSE}
+source('source/colonization_duration_shared.R')
+```
+
+Following receipt of penicillin or erythromycin, symptomatic cases
+
+```{r clearance_antibiotics, eval=FALSE}
+source('source/colonization_duration_treated.R')
+```
+
+## Case fatality ratio
+
+For untreated, never vaccinated cases
+
+```{r cfr_never_vaccinated,eval=FALSE}
+source('source/cfr_nevervac_notreat.R')
+```
+
+By age
+
+```{r cfr_age, eval=FALSE}
+source('source/cfr_age.R')
+```
+
+By outbreak size
+
+```{r cfr_outbreak_size, eval=FALSE}
+source('source/cfr_outbreak_size.R')
+```
+
+
+# Epidemiology
+
+## Proportion adult 
+
+```{r proportion_adult, eval=FALSE}
+source('source/age_distributions.R')
+```
+
+## Secondary cases caused by symptomatic and asymptomatic individuals
+
+```{r tau, eval=FALSE}
+source('source/Transmissibility.R')
+source('source/Transmissibility.stan')
+
+```
+
+## CFR, Overall
+
+```{r cfr_overall, eval=FALSE}
+source('source/cfr_overall.R')
+```
+
+## CFR, by decade
+
+```{r cfr_decade, eval=FALSE}
+source('source/cfr_decade.R')
+```
+
+## Effective and Basic reproductive numbers
+
+```{r Reproductive_numbers, eval=FALSE}
+source('source/Run_R0Stan.R')
+source('source/R0_and_Vc_fromStan.R')
+```
+
+## Serial interval/ Generation time
+
+```{r generation_time, eval=FALSE}
+source('source/GenerationTime_gamma.R')
+```
+
+
+# Treatment and Prevention
+
+## CFR by diphtheria antitoxin treatment
+```{r cfr_antitoxin, eval=FALSE}
+source('source/cfr_antitoxin.R')
+```
+
+## CFR by antitoxin treatment delay
+```{r cfr_antitoxin_delay, eval=FALSE}
+source('source/cfr_antitoxin_delay.R')
+```
+
+## Clearance of diphtheria with antibiotics
+
+```{r clearance_antibiotics2, eval=FALSE}
+source('source/colonization_duration_treated.R')
+```
+
+## Vaccine Effectiveness
+
+Overall
+
+```{r VE_overall, eval=FALSE}
+source('source/VE_by_dose.R')
+```
+
+Against severity/mortality
+
+```{r VE_severity, eval=FALSE}
+source('source/severity_by_vaccination.R')
+```
+
+Case fatality ratio, by vaccination status
+
+```{r cfr_vacc, eval=FALSE}
+source('source/CFR_vaccination.R')
+```
+
+Against colonization
+
+```{r VE_colonization, eval=FALSE}
+source('source/VE_against_colonization.R')
+```
+
+By age
+
+```{r VE_age, eval=FALSE}
+source('source/VE_by_age.R')
+```
+
+## Decline in proportion immune
+
+By time since vaccination
+
+```{r prop_immune_vacc, eval=FALSE}
+source('source/immune_decline_time.R')
+```
+
+By age
+
+```{r prop_immune_age, eval=FALSE}
+source('source/immune_decline_age.R')
+```
+
+
+# Control and Outbreak Response
+
+## Critical vaccination threshold
+
+```{r vc, eval=FALSE}
+source('source/Run_R0stan.R')
+source('source/R0_and_Vc_fromStan.R')
+```
+
+```{r sensitivity_tau, eval=FALSE}
+source('source/sensitivity_Vc_tau.R')
+```
+
+## Proportion of symptomatic individuals needed to isolate to halt the Rohingya outbreak at the beginning
+
+```{r Rohingya_prop_isolate, eval=FALSE}
+source('source/Prop_Sympt_Treat.R')
+```

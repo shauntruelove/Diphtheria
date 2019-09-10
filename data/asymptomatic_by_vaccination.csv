@@ -1,0 +1,5 @@
+"Study","Location","Country","Ref_index","Region","Years","Year.Mid","case_full","carr_full","case_partial","carr_partial","case_non","carr_non","case_unk"
+"San Antonio","San Antonio","USA",356,"AMR",1970,1970,46,61,73,70,63,18,14
+"Miller 1972","Elgin, TX","USA",220,"AMR",1970,1970,2,71,10,18,3,0,NA
+"Esher","Esher","UK",66,"EUR",1946,1946,2,1,11,6,2,0,NA
+"Chicago","Chicago","USA",16,"AMR",1970,1970,8,14,9,0,15,5,6
